@@ -1,7 +1,5 @@
 ## Introduction
 
-Made by Yongqiang Yu, Hazza Mahmood, Seung Hun (Eddie) Han
-
 This is our CV703 project, Topic: Reasoning Agro-GPT: Bridging Chain-of-Thought Gaps
 
 
