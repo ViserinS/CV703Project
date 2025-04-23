@@ -155,7 +155,5 @@ You should set the path of generated json file in Reasoning stage
 And you will get the accuracy.
 
 
-Since our trained models are really big, we cannot submit our code with those models.
-
 
 
