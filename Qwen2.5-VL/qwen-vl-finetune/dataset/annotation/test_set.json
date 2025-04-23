@@ -1,0 +1,1263 @@
+[
+  {
+    "image": "train-cbb-213.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat is wrong with this cassava plant? Analyze the symptoms and identify the specific disease affecting it."
+      },
+      {
+        "from": "assistant",
+        "value": "The cassava leaf in the image displays clear symptoms of disease progression, starting with yellowing of the upper portions that transitions to dark reddish-brown necrotic areas in the lower parts of the leaf. The affected areas show distinct angular brown patches with clearly defined margins between healthy and diseased tissue. There's a noticeable pattern of dark brown to black discoloration along the leaf veins, particularly visible where the yellowing transitions to the brown areas. The texture of the severely affected brown portions appears dry and papery, with the tissue appearing collapsed and dead. The leaf margins also show extensive browning, and the disease appears to be progressing from the leaf edges inward as well as along the veins, creating the characteristic angular patterns of infection rather than circular lesions.\n\nThis cassava plant is infected with Cassava Bacterial Blight (CBB), caused by the bacterium Xanthomonas axonopodis pv. manihotis. The symptoms exhibited in the image—including the angular brown necrotic areas, yellowing margins, vein-associated dark discoloration, and the dry papery texture of dead tissue—are all diagnostic characteristics of this bacterial disease. CBB is a serious bacterial disease of cassava that can cause significant yield losses in affected fields if not properly managed."
+      }
+    ]
+  },
+  {
+    "image": "train-cbb-294.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nPlease diagnose the disease affecting this cassava plant. What symptoms do you observe, and what is your conclusion?"
+      },
+      {
+        "from": "assistant",
+        "value": "The cassava leaves in the image display distinctive symptoms characterized by an overall yellowing of the leaf tissue, which appears as a bright yellow-green coloration across the entire leaf surface. Scattered across this yellow background are numerous dark green to olive-brown angular spots with irregular margins. These spots are distributed throughout the leaf blade, particularly concentrated in the middle portions. Some of the leaf edges and tips show signs of browning and appear slightly crisp and papery in texture. The leaf veins remain more prominently green in some areas, creating a contrast with the surrounding yellowed tissue. The angular nature of the spots, their distribution pattern along veins, and the comprehensive yellowing of the leaves are characteristic visual features of bacterial infection in cassava.\n\nThis cassava plant is affected by Cassava Bacterial Blight (CBB), caused by the bacterium Xanthomonas axonopodis pv. manihotis. The systematic yellowing of leaves combined with the angular dark green-brown spots are classic symptoms of this bacterial disease. CBB is a serious bacterial pathogen of cassava that typically begins with these distinctive leaf symptoms before potentially progressing to systemic infection that can cause wilting, dieback, and yield loss if left untreated. The observed pattern of infection with its characteristic angular lesions and yellowing confirms the diagnosis of Cassava Bacterial Blight."
+      }
+    ]
+  },
+  {
+    "image": "train-cbb-147.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nPlease examine this cassava plant and identify the disease. Describe the symptoms you observe and provide your diagnosis with reasoning."
+      },
+      {
+        "from": "assistant",
+        "value": "The cassava leaves in the image display multiple distinctive symptoms of disease. I observe yellowing (chlorosis) of the entire leaf surface, with the leaf tissue turning a pale yellow-green color rather than the normal deep green. There are scattered dark brown to black angular spots visible across the leaf surface, particularly noticeable against the yellowed background. These angular spots appear to follow the vein patterns in several areas. The leaf margins show browning and appear dry with a papery texture, indicating necrosis of tissue. Some leaves have a downward drooping posture, suggesting wilting. The disease appears to have affected the entire leaf whorl, with symptoms progressing from initial spotting to widespread yellowing. The angular nature of the spots is particularly significant, as they appear constrained by the leaf veins, creating geometric patterns rather than circular lesions.\n\nThis cassava plant is infected with Cassava Bacterial Blight (CBB), caused by the bacterium Xanthomonas axonopodis pv. manihotis. The diagnostic features include the angular dark brown spots with yellow margins, the systematic yellowing of the entire leaf, and the progression of symptoms across the leaf whorl. This bacterial disease is one of the most serious diseases affecting cassava production worldwide, causing yield losses of up to 80% in severely affected plants. The bacteria typically enter through stomata or wounds and spread systemically through the vascular system, explaining the pattern of symptoms observed in this specimen."
+      }
+    ]
+  },
+  {
+    "image": "train-cbb-426.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nIdentify the disease affecting this cassava plant. Please analyze the visual symptoms and explain how you reached your diagnosis."
+      },
+      {
+        "from": "assistant",
+        "value": "Looking at this cassava leaf, I observe distinct reddish-brown angular spots scattered across the green leaf surface. These spots appear to have a dry, somewhat papery texture and have clearly defined edges that follow the leaf's venation pattern. The spots have a distinctive angular shape rather than being circular, which is characteristic of bacterial infections that are limited by leaf veins. Some spots show a slight yellowish margin transitioning between the healthy green tissue and the necrotic brown areas. The infection appears to be in various stages, with some lesions being smaller and others having coalesced into larger patches. The surrounding leaf tissue is still green, though some yellowing is visible in areas adjacent to the infection sites, suggesting the disease is actively progressing.\n\nThis cassava plant is infected with Cassava Bacterial Blight (CBB), caused by the bacterium Xanthomonas axonopodis pv. manihotis. The angular shape of the lesions, their reddish-brown color, and their distribution pattern along the leaf veins are classic symptoms of this bacterial disease. CBB is a significant cassava pathogen that typically begins with these characteristic angular leaf spots before potentially progressing to systemic infection that can cause leaf wilting, stem die-back, and exudation of bacterial ooze from infected stems in severe cases."
+      }
+    ]
+  },
+  {
+    "image": "train-cbb-338.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat is wrong with this cassava plant? Analyze the symptoms and identify the specific disease affecting it."
+      },
+      {
+        "from": "assistant",
+        "value": "The cassava leaves in the image display distinctive circular lesions with pinkish-brown centers surrounded by yellowish halos. These spots appear somewhat sunken and are distributed across the leaf surface. The lesions are clearly defined with a consistent circular shape, measuring approximately 3-5mm in diameter. The primary leaf tissue remains green, but there are multiple isolated lesions scattered throughout. The reddish-pink leaf veins remain intact and do not show discoloration along their length. The texture of the affected areas appears slightly different from the healthy tissue, but doesn't show the papery or severely necrotic characteristics typical of bacterial infections.\n\nBased on the visual symptoms observed in this image, this cassava plant is affected by Cassava Brown Leaf Spot (Cercosporidium henningsii), not Cassava Bacterial Blight. The circular, pinkish-brown spots with yellowish margins are characteristic of this fungal disease. Cercosporidium henningsii causes these distinctive round lesions that remain isolated rather than spreading along veins or forming angular spots typical of bacterial infections. The disease typically affects lower, older leaves first but can spread upward through the plant under favorable conditions."
+      }
+    ]
+  },
+  {
+    "image": "train-cbb-336.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nThis is a cassava plant showing disease symptoms. Can you diagnose the condition based on the visible symptoms?"
+      },
+      {
+        "from": "assistant",
+        "value": "Examining the image, I can see cassava leaves displaying distinct disease symptoms. The leaves show dark brown to reddish-brown angular spots scattered across the leaf surface, particularly noticeable near the leaf edges. These spots appear to have yellowish margins transitioning to the healthy green tissue. There's evidence of discoloration along the leaf veins, with brownish-black areas following the vein patterns. The affected leaf tissue appears to have a dry, somewhat papery texture in the damaged areas. The angular nature of these lesions is characteristic, as they appear confined by the leaf veins, creating geometric patterns rather than circular spots. The disease appears to be affecting multiple leaves, with varying degrees of severity.\n\nBased on these visual symptoms, I diagnose this cassava plant with Cassava Bacterial Blight (CBB), caused by the bacterium Xanthomonas axonopodis pv. manihotis. This bacterial disease is characterized by the angular brown spots with yellow margins, vein-associated necrosis, and the dry papery texture of affected tissue seen in the image. CBB is a serious disease of cassava that can significantly impact crop yield and quality if left unmanaged."
+      }
+    ]
+  },
+  {
+    "image": "train-cbb-105.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat disease is affecting this cassava plant? Please analyze the symptoms visible in the image and provide your diagnosis with reasoning."
+      },
+      {
+        "from": "assistant",
+        "value": "The cassava leaf in the image shows distinctive symptoms associated with Cassava Bacterial Blight. I can observe angular dark brown to blackish lesions along the leaf veins, particularly visible along the midrib and secondary veins. There are yellowish discolored areas surrounding these dark lesions, creating a halo-like effect at the margins between healthy and infected tissue. The affected areas appear to have a dry, papery texture, especially where the infection has progressed. Some leaf segments show a slightly wilted appearance, and there's evidence of leaf margin distortion. The pattern of infection follows the vascular system of the leaf, which is typical of systemic bacterial infections that spread through the plant's vascular tissues.\n\nThis cassava plant is affected by Cassava Bacterial Blight (CBB), caused by the bacterium Xanthomonas axonopodis pv. manihotis. The angular dark lesions along leaf veins, yellowish margins around infected areas, and the systemic pattern of infection are hallmark characteristics of this bacterial disease. CBB is one of the most economically significant bacterial diseases affecting cassava production worldwide, capable of causing significant yield losses if not properly managed through the use of resistant varieties, clean planting materials, and appropriate cultural practices."
+      }
+    ]
+  },
+  {
+    "image": "train-cbb-328.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nIdentify the disease affecting this cassava plant. Please analyze the visual symptoms and explain how you reached your diagnosis."
+      },
+      {
+        "from": "assistant",
+        "value": "The image shows cassava leaves with several distinct visual symptoms. I observe a yellowing discoloration (chlorosis) along the leaf margins, creating a clear contrast with the greener center portions of the leaves. Some leaf edges appear to have brown-tinged necrotic areas, particularly visible on the upper leaf. The yellowing follows the veins in a pattern known as vein-associated chlorosis. There are also visible angular sections where the leaf tissue appears to have a different texture - slightly dry and papery compared to the healthy tissue. The discoloration follows a distinct pattern that begins at the leaf edges and moves inward, following the vascular system, which is characteristic of systemic bacterial infections that spread through the plant's vascular tissues.\n\nBased on these visual symptoms, I diagnose this plant with Cassava Bacterial Blight (CBB), caused by the bacterium Xanthomonas axonopodis pv. manihotis. The key diagnostic features include the angular leaf spots with yellowish margins, the progression of symptoms along the leaf veins, and the characteristic pattern of chlorosis moving from the leaf margins inward. CBB is a major bacterial disease affecting cassava production worldwide, capable of causing significant yield losses if not managed properly."
+      }
+    ]
+  },
+  {
+    "image": "train-cbb-302.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nCan you identify the disease on this cassava plant? Please provide a detailed analysis of the symptoms and your final diagnosis."
+      },
+      {
+        "from": "assistant",
+        "value": "The image shows cassava leaves with distinct disease symptoms. I can observe extensive yellowing (chlorosis) along the leaf margins, with the yellowing appearing in irregular patterns that extend inward from the edges. The leaves exhibit angular, light brown to tan necrotic spots distributed across the leaf surface. These spots have a dry, papery appearance where tissue has died. Particularly notable is the yellowing pattern that follows the leaf veins (vein-banding), where tissues adjacent to the veins have turned yellowish while the veins themselves remain partially green. Some leaf areas show a transition from green to yellow to brown, indicating progressive disease development. The angular nature of the lesions is characteristic, as they appear bounded by leaf veins, creating geometric patterns of damage rather than circular spots.\n\nBased on the visual symptoms observed, this cassava plant is infected with Cassava Bacterial Blight (CBB), caused by the bacterium Xanthomonas axonopodis pv. manihotis. The diagnostic features include the angular necrotic lesions, yellowing leaf margins, vein-associated chlorosis, and the progressive pattern of tissue death that follows the leaf veins. This bacterial infection typically enters through stomata or wounds and spreads systemically through the plant's vascular system, resulting in the characteristic symptoms visible in this specimen."
+      }
+    ]
+  },
+  {
+    "image": "train-cbb-349.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nPlease diagnose the disease affecting this cassava plant. What symptoms do you observe, and what is your conclusion?"
+      },
+      {
+        "from": "assistant",
+        "value": "Examining the cassava plant in the image, I can observe mostly healthy green foliage with only minor symptoms of concern. The leaves display a predominantly deep green color with clear venation patterns. There is a small yellowish-white discolored area visible on one of the leaves near the center of the image. This discoloration appears somewhat irregular in shape but is limited in scope. The leaf tissue in this affected area appears slightly lighter in texture compared to the surrounding healthy green tissue. The reddish-purple stem appears normal, and the overall plant structure shows the typical palmate leaf arrangement of cassava. Most leaves in the image appear intact with no significant distortion, curling, or extensive necrotic (dead) tissue.\n\nBased on the visual assessment, this cassava plant appears to be exhibiting early or mild symptoms consistent with Cassava Bacterial Blight (CBB), caused by Xanthomonas axonopodis pv. manihotis. The small yellowish discoloration represents an early infection site, though the disease appears to be in its initial stages as the symptoms are not widespread or severe across the plant. Regular monitoring would be advised as CBB can progress to more severe symptoms under favorable conditions."
+      }
+    ]
+  },
+  {
+    "image": "train-cbb-100.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat is wrong with this cassava plant? Analyze the symptoms and identify the specific disease affecting it."
+      },
+      {
+        "from": "assistant",
+        "value": "The cassava leaf shows distinctive dark reddish-brown to purple-brown angular spots scattered across the green leaf surface. These spots have defined geometric edges rather than circular shapes, following the veinal boundaries of the leaf. Around several of these angular lesions, there appears to be subtle yellowish-green halos or margins, creating a transition zone between the healthy green tissue and the infected areas. The affected tissue looks dry with a somewhat papery texture where the infection has progressed. Some of the spots appear concentrated along or adjacent to the leaf veins, which is characteristic of vascular-associated infection. The angular nature of these lesions and their distribution pattern across the leaf blade strongly suggests bacterial infection rather than fungal or viral pathogens.\n\nThis cassava plant is affected by Cassava Bacterial Blight (CBB), caused by the bacterium Xanthomonas axonopodis pv. manihotis (also known as Xanthomonas phaseoli pv. manihotis). The angular, dark brown lesions with yellowish margins are classic symptoms of this bacterial disease. CBB is a serious pathogen affecting cassava production worldwide, particularly in tropical regions. The bacteria typically enter through leaf stomata or wounds and spread through the vascular system, eventually causing the characteristic angular leaf spots visible in this image."
+      }
+    ]
+  },
+  {
+    "image": "train-cbb-257.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat disease has infected this cassava? Provide a thorough analysis of the symptoms visible in the image and your final diagnosis."
+      },
+      {
+        "from": "assistant",
+        "value": "The cassava leaf displays several distinctive symptoms characteristic of infection. I can see dark brown to black angular spots scattered across the leaf surface, particularly concentrated on the right side of the central vein. These spots have a distinct angular shape rather than circular, following the constraints of the leaf veins. The leaf also shows yellowing tissue around some of these dark lesions, creating a yellowish halo effect particularly visible at the leaf margins. The affected tissue appears to have a dry, papery texture where the infection has progressed. Additionally, there's browning at the bottom left edge of the leaf, indicating necrotic tissue. The contrast between the healthy bright green leaf tissue and the darker infected areas is quite pronounced, with some areas showing progressive yellowing as the infection spreads from the original infection points.\n\nBased on the visual symptoms present in this image, I can conclusively diagnose this as Cassava Bacterial Blight (CBB), caused by the bacterium Xanthomonas axonopodis pv. manihotis. The angular dark brown spots, yellowish margins around lesions, and the dry papery texture of affected areas are hallmark characteristics of this bacterial disease. CBB is a serious cassava pathogen that can lead to significant yield losses if not properly managed through resistant varieties and agricultural practices."
+      }
+    ]
+  },
+  {
+    "image": "train-cbb-71.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nPlease examine this cassava plant and identify the disease. Describe the symptoms you observe and provide your diagnosis with reasoning."
+      },
+      {
+        "from": "assistant",
+        "value": "The cassava leaves in this image show distinct disease symptoms characterized by brown necrotic areas with angular patterns, particularly visible on several leaves. I observe dark brown to black discoloration spreading from leaf margins inward with some leaves exhibiting a yellowish halo surrounding the necrotic tissue. The affected areas appear dry and brittle with a papery texture. Some leaves show the characteristic angular dark brown spots that follow leaf veins, creating a distinctive pattern. The reddish-purple stems remain intact, but several leaves display advanced symptoms with large portions of tissue turning from green to yellow-brown to dark brown, indicating progressive tissue death. The angular nature of the lesions suggests bacterial infection rather than fungal, as bacterial pathogens typically spread along leaf veins creating these geometric patterns.\n\nThis cassava plant is infected with Cassava Bacterial Blight (CBB), caused by Xanthomonas axonopodis pv. manihotis. The diagnosis is based on the distinctive angular dark brown necrotic lesions, yellowing margins around infected areas, vein-associated spread pattern, and the dry papery texture of dead tissue. CBB is a serious bacterial disease of cassava that can lead to significant yield losses if left uncontrolled, as it can cause defoliation, dieback, and systemic infection throughout the plant."
+      }
+    ]
+  },
+  {
+    "image": "train-cbb-395.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nThis cassava plant appears diseased. What condition is it suffering from? Analyze the visible symptoms and explain your reasoning."
+      },
+      {
+        "from": "assistant",
+        "value": "The cassava leaves in the image exhibit distinct symptoms of disease, characterized by small light brown to pinkish angular spots scattered across the leaf surface. These spots appear to have defined edges that often follow the angular pattern created by the leaf veins. Some spots show yellowish margins transitioning to the healthy green tissue. The leaf veins are prominently displayed with a light pink to reddish coloration on the petioles. The lesions appear dry with a somewhat papery texture where affected. The distribution pattern of these spots is irregular across multiple lobes of the palmate leaves, with some spots appearing to coalesce in certain areas. The background leaf tissue maintains its deep green color where not affected, creating a clear contrast with the diseased portions.\n\nBased on the visual symptoms observed, this cassava plant is suffering from Cassava Bacterial Blight (CBB), caused by the bacterium Xanthomonas axonopodis pv. manihotis. The characteristic angular spots with defined edges following the leaf veins are classic symptoms of this bacterial disease. The spots typically start small and enlarge over time, eventually developing the dry, papery texture seen in more advanced lesions. CBB is a serious disease of cassava that can significantly reduce yields if left unmanaged, and the pattern of infection shown in this image is consistent with the early to mid-stage development of this pathogen."
+      }
+    ]
+  },
+  {
+    "image": "train-cmd-8.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nCan you identify the disease on this cassava plant? Please provide a detailed analysis of the symptoms and your final diagnosis."
+      },
+      {
+        "from": "assistant",
+        "value": "The cassava leaves in the image exhibit distinctive visual symptoms consistent with viral infection. The most noticeable feature is the irregular mosaic pattern of light green and dark green areas across the leaf surfaces, particularly evident in the central plant. Several leaves show a mottled appearance with patchy, pale yellowish-green regions interspersed with normal green tissue, creating a distinct mosaic effect. There is also visible leaf distortion and mild curling, especially at the leaf margins, giving them an abnormal shape compared to healthy cassava leaves. The affected leaves appear slightly reduced in size with some narrowing. Some leaves display a roughened surface texture where the discoloration is most severe. These mosaic patterns are not uniform across the plant but appear in an irregular distribution, with some leaves showing more intense symptoms than others.\n\nThis plant is affected by Cassava Mosaic Disease (CMD), caused by cassava mosaic geminiviruses (family Geminiviridae, genus Begomovirus). The irregular light/dark green mosaic pattern, yellowing mottling, leaf distortion, and reduced leaf size are hallmark symptoms of this viral disease. CMD is one of the most economically significant diseases affecting cassava production across Africa and parts of Asia, typically transmitted by whiteflies (Bemisia tabaci) or through the planting of infected stem cuttings. The symptoms observed in this specimen represent the classic presentation of CMD infection in cassava plants."
+      }
+    ]
+  },
+  {
+    "image": "train-cbb-174.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nCan you identify the disease on this cassava plant? Please provide a detailed analysis of the symptoms and your final diagnosis."
+      },
+      {
+        "from": "assistant",
+        "value": "The cassava leaves in the image display distinctive symptoms characteristic of Cassava Bacterial Blight (CBB). I can observe angular dark brown to black lesions scattered across the leaf surface, particularly along the leaf veins. These lesions have a distinctive angular shape rather than rounded spots. There's a noticeable yellowish margin surrounding many of these dark lesions, creating a halo effect. The affected leaf tissue appears to have a dry, papery texture in the damaged areas, which is typical of bacterial infection that causes cell death. Some areas show coalescence of these angular spots into larger necrotic patches. The pattern of infection follows the leaf veins, with dark brown to black discoloration extending along the vascular tissue. This vein-associated infection is a hallmark of systemic bacterial spread through the plant's vascular system.\n\nThe disease visible in this cassava plant is Cassava Bacterial Blight (CBB), caused by the bacterium Xanthomonas axonopodis pv. manihotis (also known as Xanthomonas phaseoli pv. manihotis in newer classifications). This bacterial pathogen is one of the most serious diseases affecting cassava production worldwide. The angular lesions, vein-associated necrosis, and yellowing margins are diagnostic features of this bacterial disease. The systematic pattern of infection along veins indicates the bacteria have likely spread throughout the plant's vascular system, potentially affecting yield and plant survival if left untreated."
+      }
+    ]
+  },
+  {
+    "image": "train-cbb-220.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nPlease examine this cassava plant and identify the disease. Describe the symptoms you observe and provide your diagnosis with reasoning."
+      },
+      {
+        "from": "assistant",
+        "value": "The cassava leaves display distinct angular, light brown to tan-colored lesions with clearly defined edges scattered across the leaf surface. These lesions appear dry and papery in texture, contrasting sharply with the healthy green leaf tissue. Several of the affected areas follow leaf veins and appear to be coalescing into larger damaged regions, particularly along the leaf margins where some browning and tissue deterioration is evident. The yellowing halo surrounding some of these angular spots is particularly characteristic. The overall leaf structure shows wilting and drooping, suggesting systemic infection rather than just localized damage. The pattern of these angular necrotic spots following the leaf veins is highly specific to bacterial infection of the vascular system.\n\nThis cassava plant is infected with Cassava Bacterial Blight (CBB), caused by the bacterium Xanthomonas axonopodis pv. manihotis. The angular brown lesions with yellowish margins, the pattern of infection following leaf veins, and the papery texture of damaged tissue are all diagnostic features of this bacterial disease. CBB is a serious systemic vascular infection that can lead to significant yield losses if left untreated, as it eventually causes wilting, defoliation, and die-back of shoots in severe cases."
+      }
+    ]
+  },
+  {
+    "image": "train-cbb-196.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nPlease examine this cassava plant and identify the disease. Describe the symptoms you observe and provide your diagnosis with reasoning."
+      },
+      {
+        "from": "assistant",
+        "value": "Examining the image, I can observe several characteristic symptoms on the cassava leaves. The affected leaves display distinct angular brown to tan lesions with yellowish margins that follow the leaf veins. There are areas where the leaf tissue appears necrotic, with a dry, papery texture. Some parts of the leaves show a light brown discoloration along the veins, while other sections have completely died and dried out, appearing light brown to tan in color. The pattern of infection follows leaf veins and creates angular spots rather than circular ones. The healthy tissue remains dark green, creating a stark contrast with the infected areas. The infection appears to be spreading systematically through the vascular system as evidenced by the vein-associated patterns and the progressive nature of the damage from yellowing to complete necrosis.\n\nThis cassava plant is infected with Cassava Bacterial Blight (CBB), caused by the bacterium Xanthomonas axonopodis pv. manihotis. The angular nature of the lesions, the progression along leaf veins, the yellowish margins around necrotic areas, and the dry papery texture of dead tissue are all classic visual indicators of this bacterial infection. CBB is a serious vascular disease that can lead to significant yield losses in cassava crops if not properly managed."
+      }
+    ]
+  },
+  {
+    "image": "train-cbb-84.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat disease has infected this cassava? Provide a thorough analysis of the symptoms visible in the image and your final diagnosis."
+      },
+      {
+        "from": "assistant",
+        "value": "The cassava leaves in the image display characteristic symptoms of Cassava Bacterial Blight (CBB). I can observe angular dark brown necrotic spots on several leaves, particularly visible on the left leaf. These spots have distinct yellowish margins creating a halo effect around the damaged tissue. The leaf veins appear darker in affected areas, showing a brown-black discoloration that follows the vascular system. There's a noticeable pattern of yellowing (chlorosis) spreading from the leaf margins inward, especially prominent on the left leaf which shows more advanced symptoms. The affected tissue appears dry and papery in texture, with some areas beginning to look brittle. The disease has progressed differently across the leaves, with the leftmost leaf showing more severe symptoms than the rightmost leaf, suggesting the progressive nature of the infection.\n\nThis cassava plant is infected with Cassava Bacterial Blight (CBB), caused by the bacterium Xanthomonas axonopodis pv. manihotis (also known as Xanthomonas phaseoli pv. manihotis). The distinctive angular leaf spots with yellow margins, vein-associated necrosis, and progressive chlorosis from leaf margins are hallmark symptoms of this bacterial infection. CBB is a serious disease that can cause significant yield losses in cassava production if not managed properly, as it can spread systemically throughout the plant and affect stems and storage roots in advanced stages."
+      }
+    ]
+  },
+  {
+    "image": "train-cmd-23.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat disease has infected this cassava? Provide a thorough analysis of the symptoms visible in the image and your final diagnosis."
+      },
+      {
+        "from": "assistant",
+        "value": "The cassava leaves in the image display distinctive irregular mottling patterns with light yellow-green and dark green areas distributed across the leaf surface. This characteristic mosaic pattern is highly pronounced, with patches of yellow-green tissue interspersed with normal dark green areas, creating a blotchy appearance. Several leaves show distortion and mild curling, particularly evident in the leaf margins that appear slightly twisted. The leaves have an uneven, asymmetrical shape compared to healthy cassava leaves, which would typically have a uniform green coloration. The reddish-purple stems (petioles) appear normal, but the contrast between the variegated leaf tissue is striking. The irregular distribution of chlorotic (yellowed) areas across the leaf blade without any defined borders or lesions is particularly noteworthy.\n\nThis cassava plant is infected with Cassava Mosaic Disease (CMD), caused by cassava mosaic geminiviruses (family Geminiviridae, genus Begomovirus). The diagnostic features visible in the image - the irregular yellow-green and dark green mosaic pattern, leaf distortion, and mild curling - are classic symptoms of this viral disease. CMD is one of the most economically important diseases of cassava in Africa and parts of Asia, transmitted primarily by the whitefly Bemisia tabaci and through the use of infected planting material. The severity of symptoms shown in this plant suggests a relatively advanced infection that is likely causing significant reduction in photosynthetic capacity and will ultimately result in reduced tuberous root yield."
+      }
+    ]
+  },
+  {
+    "image": "train-cbb-86.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nThis is a cassava plant showing disease symptoms. Can you diagnose the condition based on the visible symptoms?"
+      },
+      {
+        "from": "assistant",
+        "value": "Examining the cassava leaf image, I can see distinctive symptoms of bacterial infection on multiple leaves. The leaves display dark angular spots with yellowish margins, particularly visible on several leaves. There appears to be browning occurring along the leaf veins, creating a notable pattern of discoloration following the vascular system. Some affected leaf areas show a dry, papery texture where tissue has begun to deteriorate. The infection pattern is not uniform across all leaves - some show more severe symptoms with larger affected areas extending from the leaf margins inward, while others display more isolated spots. The characteristic angular shape of the lesions and their distribution pattern along veins is particularly significant, as is the combination of dark brown to black necrotic areas contrasting with chlorotic (yellowish) zones surrounding them.\n\nBased on the observed symptoms of angular dark brown spots with yellowish margins, vein-associated necrosis, and the dry papery texture of affected tissues, this cassava plant is suffering from Cassava Bacterial Blight (CBB). This disease is caused by the bacterium Xanthomonas axonopodis pv. manihotis. CBB is a serious bacterial disease affecting cassava worldwide, particularly in tropical and subtropical regions where cassava is cultivated as a staple crop. The symptoms visible in this image are consistent with the mid-stage progression of this bacterial infection."
+      }
+    ]
+  },
+  {
+    "image": "train-cbb-74.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat pathogen is affecting this cassava plant? Analyze the visible symptoms in detail and provide your diagnosis."
+      },
+      {
+        "from": "assistant",
+        "value": "The cassava leaves display numerous small, reddish-brown to dark brown angular spots scattered across the leaf surface. These spots appear to follow a distinct angular pattern, constrained by the leaf veins, giving them a geometric rather than circular shape. The spots have a dry, somewhat papery texture and in some areas, particularly visible in the upper leaf, the spots appear to be coalescing into larger patches of necrotic tissue. Along some leaf veins, there's evidence of darker brown to black streaking, indicating systemic infection traveling through the vascular system. The leaf margins show some yellowing adjacent to affected areas, creating a yellowish halo effect around some of the more developed lesions. The overall green tissue between spots remains intact, suggesting the infection is progressing but hasn't completely destroyed the leaf yet.\n\nThis cassava plant is affected by Cassava Bacterial Blight (CBB), caused by the bacterium Xanthomonas axonopodis pv. manihotis (also known as Xanthomonas phaseoli pv. manihotis). The characteristic angular, reddish-brown spots limited by leaf veins, the systemic vein darkening, and the pattern of distribution across the leaf surface are hallmark symptoms of this bacterial infection. CBB is a serious bacterial disease of cassava that can cause significant yield losses if not managed properly."
+      }
+    ]
+  },
+  {
+    "image": "train-cbb-359.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nPlease examine this cassava plant and identify the disease. Describe the symptoms you observe and provide your diagnosis with reasoning."
+      },
+      {
+        "from": "assistant",
+        "value": "The image shows cassava leaves with distinctive dark brown to black angular lesions scattered across the leaf surface. These spots have a defined angular shape, constrained by the leaf veins, which is characteristic of bacterial infections. The lesions appear dry and slightly sunken with a papery texture. Some of these dark spots show a subtle yellowish margin where the infected tissue transitions to healthy green tissue. There's also evidence of blackened areas following along some of the leaf veins, particularly visible along the midribs of several lobes. The overall leaf structure maintains its shape, but these necrotic spots disrupt the otherwise healthy green leaf tissue. The pattern of infection appears somewhat systemic rather than isolated to a single area.\n\nBased on these visual symptoms, this cassava plant is infected with Cassava Bacterial Blight (CBB), caused by the bacterium Xanthomonas axonopodis pv. manihotis. The angular dark brown lesions with yellowish margins, blackening along the leaf veins, and the dry, papery texture of the affected areas are classic symptoms of this bacterial disease. CBB is a serious bacterial disease of cassava that can cause significant yield losses if left unmanaged, as it can spread systemically throughout the plant."
+      }
+    ]
+  },
+  {
+    "image": "train-cbb-207.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat disease has infected this cassava? Provide a thorough analysis of the symptoms visible in the image and your final diagnosis."
+      },
+      {
+        "from": "assistant",
+        "value": "The cassava leaf in the image displays characteristic symptoms of bacterial infection, most notably distinct dark brown to reddish-brown angular lesions scattered across the leaf surface. These angular spots have a well-defined shape following the leaf veins, with some appearing to have yellowish margins surrounding the necrotic tissue. The affected leaf shows signs of chlorosis (yellowing) between the lesions, indicating widespread stress response. I can observe that the lesions appear dry and slightly papery in texture. Additionally, there appears to be some browning along the leaf veins, which is a typical pattern of vascular infection. The stem has a purplish-reddish coloration, which can be associated with this disease progression. The symptomatic leaf contrasts sharply with healthier green leaves visible in the background, highlighting the progressive nature of the infection.\n\nThis cassava plant is infected with Cassava Bacterial Blight (CBB), caused by the bacterium Xanthomonas axonopodis pv. manihotis (also known as Xanthomonas campestris pv. manihotis). The angular leaf spots with yellowish halos, vein-associated necrosis, and the dry appearance of affected tissues are hallmark signs of this serious bacterial disease. CBB is one of the most economically important bacterial diseases of cassava worldwide, capable of causing significant yield losses if left unmanaged."
+      }
+    ]
+  },
+  {
+    "image": "train-cbb-219.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nThis cassava plant appears diseased. What condition is it suffering from? Analyze the visible symptoms and explain your reasoning."
+      },
+      {
+        "from": "assistant",
+        "value": "The cassava plant in the image shows several distinctive symptoms of disease. I can observe yellowing (chlorosis) along the edges and tips of several leaves, particularly visible on the lower and outer portions of the foliage. There are angular dark brown to black spots visible on some of the leaf surfaces, particularly noticeable against the green tissue. The leaf veins appear to have dark reddish-brown discoloration, with some veins showing darkening that extends outward into the leaf tissue. Some affected leaves have a dry, papery texture in areas where the tissue is damaged. The reddish-purple coloration of the stems and leaf stalks (petioles) is also notable, with some areas appearing wilted or withered. The angular nature of the lesions is particularly characteristic, as they appear to be bounded by the leaf veins.\n\nThis cassava plant is suffering from Cassava Bacterial Blight (CBB), caused by the bacterium Xanthomonas axonopodis pv. manihotis. The diagnostic features include the angular brown spots on leaves, yellowing leaf margins, dark discoloration along leaf veins, and the dry papery texture of damaged tissue. This bacterial disease typically begins with angular leaf spots that can enlarge and coalesce, eventually leading to leaf wilting and die-back of shoots. The systemic nature of the infection is evidenced by the symptoms appearing across multiple parts of the plant, affecting both leaf tissue and vascular elements visible in the stems and leaf veins."
+      }
+    ]
+  },
+  {
+    "image": "train-cbb-348.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat disease is affecting this cassava plant? Please analyze the symptoms visible in the image and provide your diagnosis with reasoning."
+      },
+      {
+        "from": "assistant",
+        "value": "The cassava leaf in the image displays characteristic symptoms of bacterial infection, most notably the yellowing (chlorosis) of the leaf tissue with a distinctive pattern. The leaf shows a greenish-yellow coloration throughout, with more pronounced yellowing along the leaf margins. There appears to be some browning or necrosis beginning at the edges and leaf tips. The discoloration follows the veinal pattern of the leaf, suggesting systemic infection. The leaf has a slightly wilted appearance, and there seems to be some tissue degradation giving parts of the leaf a thin, almost translucent quality. The infection pattern shows angular spreading, which is consistent with bacteria moving through the vascular system and leaf veins.\n\nBased on the visual symptoms observed in the image, this cassava plant is affected by Cassava Bacterial Blight (CBB), caused by the bacterium Xanthomonas axonopodis pv. manihotis. The characteristic yellowing pattern with progression from leaf margins inward, the angular nature of the discoloration, and the early signs of necrotic tissue are all consistent with this bacterial infection. CBB is a serious disease of cassava that can significantly reduce yields and cause plant death in severe cases."
+      }
+    ]
+  },
+  {
+    "image": "train-cbb-283.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nThis cassava plant appears diseased. What condition is it suffering from? Analyze the visible symptoms and explain your reasoning."
+      },
+      {
+        "from": "assistant",
+        "value": "The cassava leaves in the image display several characteristic symptoms of infection. I can observe yellowish discoloration along the leaf margins, particularly visible on some of the lower leaves where bright yellow coloration contrasts with the healthy green tissue. There are also angular dark brown to black lesions forming along some of the leaf veins, creating a distinctive pattern where the infection appears to follow the vascular system. The affected areas have a dry, almost papery appearance, and some leaves show signs of wilting or curling at the edges. The angular nature of these spots and their distribution along the leaf veins is particularly notable, as is the progression pattern where some leaves remain mostly green while others show more advanced yellowing and necrosis.\n\nThis cassava plant is suffering from Cassava Bacterial Blight (CBB), caused by the bacterium Xanthomonas axonopodis pv. manihotis. The angular leaf spots with yellowish halos, vein-associated necrosis, and the progressive yellowing of leaf tissue are classic symptoms of this bacterial infection. CBB is a serious disease affecting cassava crops worldwide, reducing yields significantly by interfering with photosynthesis and eventually causing defoliation if left untreated."
+      }
+    ]
+  },
+  {
+    "image": "train-cbb-116.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nIdentify the disease affecting this cassava plant. Please analyze the visual symptoms and explain how you reached your diagnosis."
+      },
+      {
+        "from": "assistant",
+        "value": "Examining the cassava plant in the image, I can see several key symptoms indicative of Cassava Bacterial Blight (CBB). There are distinct brown necrotic lesions visible on some of the lower leaves, particularly noticeable in the bottom left quadrant where a circular to angular brown spot with a yellowish margin can be seen. The leaf tissue in these affected areas appears dry and papery in texture. The reddish-pink coloration of the petioles (leaf stems) is visible, though this is a normal characteristic of many cassava varieties rather than a disease symptom. Some leaves show early signs of chlorosis (yellowing) around the affected tissue. The angular shape of some of the leaf spots and their distribution pattern along the leaf margins and veins is consistent with bacterial infection spreading through the vascular system.\n\nThis cassava plant is affected by Cassava Bacterial Blight (CBB), caused by the bacterium Xanthomonas axonopodis pv. manihotis. The characteristic angular brown leaf spots with yellowish margins, the dry papery texture of affected tissues, and the pattern of lesion development are diagnostic features of this bacterial disease. CBB is a serious bacterial disease of cassava that can cause significant yield losses if not properly managed through the use of resistant varieties, clean planting material, and appropriate cultural practices."
+      }
+    ]
+  },
+  {
+    "image": "train-cbb-335.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat pathogen is affecting this cassava plant? Analyze the visible symptoms in detail and provide your diagnosis."
+      },
+      {
+        "from": "assistant",
+        "value": "The cassava leaves in the image show specific symptoms indicative of bacterial infection. I can observe distinct dark brown angular lesions on the leaf surface, particularly visible on the lower leaf. These lesions have sharp, angular boundaries that follow the leaf veins, which is characteristic of bacterial spread through the vascular system. The affected areas contrast sharply with the healthy bright green tissue. Along some of the leaf veins, there appears to be a brownish-black discoloration, suggesting bacterial colonization of the vascular tissues. The infected areas have a slightly dry, papery texture compared to the smooth, glossy appearance of healthy parts of the leaves. The reddish-purple stems visible in the image are normal for cassava but the angular nature of the leaf spots is particularly diagnostic.\n\nThis cassava plant is infected with Cassava Bacterial Blight (CBB), caused by the bacterium Xanthomonas axonopodis pv. manihotis (sometimes referred to as Xanthomonas campestris pv. manihotis). The characteristic angular leaf spots with dark brown centers, systemic infection along the veins, and the sharp boundaries of the lesions are classic symptoms of this bacterial disease. CBB is one of the most serious bacterial diseases affecting cassava cultivation worldwide, capable of causing significant yield losses if not managed properly."
+      }
+    ]
+  },
+  {
+    "image": "train-cbb-109.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nPlease examine this cassava plant and identify the disease. Describe the symptoms you observe and provide your diagnosis with reasoning."
+      },
+      {
+        "from": "assistant",
+        "value": "Upon careful examination of the image, I can see the cassava leaves appear predominantly healthy with vibrant green coloration. There are no visible dark brown angular spots, leaf yellowing, or discoloration along the leaf veins that would indicate Cassava Bacterial Blight. The leaf texture appears normal and intact without any papery or necrotic areas. I can observe the typical palmate leaf structure with clearly defined veins. There is what appears to be a small brownish area on one leaf, but this single spot doesn't display the characteristic angular shape, yellowing margins, or vein-associated necrosis typical of CBB. The overall plant foliage appears vigorous without systematic infection signs.\n\nBased on the visual evidence in this image, I do not see definitive symptoms of Cassava Bacterial Blight (Xanthomonas axonopodis pv. manihotis). The leaves appear predominantly healthy without the characteristic angular leaf spots, vein necrosis, or wilting associated with this bacterial disease. The small discoloration visible might be due to minor mechanical damage, nutritional issues, or possibly very early stages of a different condition, but more extensive symptoms would need to be present for a conclusive CBB diagnosis."
+      }
+    ]
+  },
+  {
+    "image": "train-cmd-60.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nThis is a cassava plant showing disease symptoms. Can you diagnose the condition based on the visible symptoms?"
+      },
+      {
+        "from": "assistant",
+        "value": "The cassava plant in the image exhibits distinct symptoms characteristic of viral infection. The young leaves at the center of the plant show a striking mosaic pattern with irregular patches of light yellowish-green and dark green areas scattered across the leaf surface. These leaves appear severely distorted and malformed, with prominent curling, puckering, and reduction in leaf size compared to the older, more mature leaves. The leaf margins are uneven and twisted, giving them a crumpled appearance. There's clear stunting of the new growth, with the affected leaves clustered tightly together instead of expanding normally. The contrast between the healthy-looking mature dark green leaves and the severely affected yellowish-green younger leaves in the center of the plant is particularly notable.\n\nThis plant is infected with Cassava Mosaic Disease (CMD), caused by cassava mosaic geminiviruses (family Geminiviridae, genus Begomovirus). The distinctive mosaic pattern of light and dark green areas, severe leaf distortion, curling, and reduced leaf size in the young growth are classic symptoms of this viral disease. CMD is one of the most economically important diseases of cassava in Africa and parts of Asia, transmitted primarily by the whitefly Bemisia tabaci and through the use of infected planting material. The severity of symptoms visible in this plant suggests a significant infection that will likely reduce tuber yield if left untreated."
+      }
+    ]
+  },
+  {
+    "image": "train-cbb-136.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nThis cassava plant appears diseased. What condition is it suffering from? Analyze the visible symptoms and explain your reasoning."
+      },
+      {
+        "from": "assistant",
+        "value": "The cassava leaf in the image displays characteristic symptoms of Cassava Bacterial Blight (CBB). I observe yellowish-green discoloration throughout the leaf with notable brown-edged necrotic patches, particularly on the lower right lobe. These necrotic areas have a dry, papery appearance with distinct angular shapes and dark brown margins contrasting against the yellow-green background. There's also evidence of browning along some of the leaf veins, particularly visible in the central part of the leaf where veins appear darker than surrounding tissue. The overall yellow coloration suggests chlorosis, which typically precedes the development of angular necrotic spots in CBB infection. The pattern of damage follows the leaf veins in some areas, which is consistent with systemic bacterial spread through the vascular system.\n\nThis cassava plant is suffering from Cassava Bacterial Blight (CBB), caused by the bacterium Xanthomonas axonopodis pv. manihotis. The distinctive combination of yellow leaf discoloration, angular brown necrotic lesions with defined margins, and vein-associated browning are hallmark symptoms of this bacterial disease. CBB is a serious pathogen of cassava that can cause significant yield losses if not properly managed through cultural practices, use of resistant varieties, and proper sanitation measures."
+      }
+    ]
+  },
+  {
+    "image": "train-cmd-17.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat disease is affecting this cassava plant? Please analyze the symptoms visible in the image and provide your diagnosis with reasoning."
+      },
+      {
+        "from": "assistant",
+        "value": "The cassava leaves in this image display distinctive symptoms characteristic of viral infection. I can observe an irregular mosaic pattern with patches of light green and dark green coloration scattered across the leaf surface. There is noticeable leaf distortion - several leaves appear twisted and curled at the edges, deviating from the normal flat appearance of healthy cassava leaves. The leaves also show subtle yellowing in certain areas, particularly visible in the right leaf where patches of yellowish-green blend with the normal green tissue. Additionally, the leaf structure appears somewhat reduced in size compared to healthy cassava leaves, suggesting stunted growth. The leaf veins remain prominently visible, but the tissue between them shows the characteristic mottling pattern with uneven coloration.\n\nBased on these visible symptoms - specifically the irregular mosaic pattern of light and dark green patches, yellowing areas, leaf distortion with curling, and the overall mottled appearance - this cassava plant is affected by Cassava Mosaic Disease (CMD). This viral disease is caused by several species of geminiviruses in the family Geminiviridae, primarily transmitted by whiteflies (Bemisia tabaci) or through infected cuttings. CMD is one of the most economically significant diseases affecting cassava production across Africa and parts of Asia, causing substantial yield losses by reducing the plant's photosynthetic capacity."
+      }
+    ]
+  },
+  {
+    "image": "train-cbb-68.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat disease is affecting this cassava plant? Please analyze the symptoms visible in the image and provide your diagnosis with reasoning."
+      },
+      {
+        "from": "assistant",
+        "value": "The cassava leaf in the image displays distinct symptoms of infection, characterized by multiple small, circular to angular lesions scattered across the leaf surface. These lesions appear as reddish-brown to dark brown spots with yellowish halos or margins surrounding them. The spots are distributed primarily between the leaf veins, creating a distinctive pattern across the green leaf tissue. Some areas show early yellowing, particularly near the leaf margins and around the infection sites. The leaf veins appear to have some darker coloration along their edges, showing the beginning of vein-associated necrosis. The lesions have a somewhat dry, papery texture in the center where tissue damage is most severe, while maintaining the angular shape characteristic of bacterial infections.\n\nBased on the visual symptoms observed in the image, this cassava plant is infected with Cassava Bacterial Blight (CBB), caused by the bacterium Xanthomonas axonopodis pv. manihotis. The angular brown spots with yellow margins, the distribution pattern between veins, and the beginning of vein-associated darkening are all classic indicators of this bacterial disease. CBB is one of the most serious bacterial diseases affecting cassava production worldwide, capable of causing significant yield losses if left unmanaged."
+      }
+    ]
+  },
+  {
+    "image": "train-cmd-1.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nIdentify the disease affecting this cassava plant. Please analyze the visual symptoms and explain how you reached your diagnosis."
+      },
+      {
+        "from": "assistant",
+        "value": "The cassava leaves in the image display distinctive symptoms of viral infection. Most notably, there is a clear irregular mosaic pattern with patchy areas of light yellow-green and normal dark green tissue distributed throughout the leaves. The leaves show significant distortion and malformation, with the leaf edges curling inward and the overall leaf shape appearing twisted compared to healthy cassava foliage. The affected leaves have a crumpled appearance with the yellowed areas appearing slightly thinner in texture than the darker green portions. The mosaic patterning is not uniform but rather appears as blotchy, irregular patches across the leaf surface. Additionally, there appears to be some reduction in leaf size and the leaf lobes show asymmetrical development, with some curling dramatically more than others.\n\nThis cassava plant is infected with Cassava Mosaic Disease (CMD), caused by cassava mosaic geminiviruses (CMGs). The diagnosis is based on the characteristic irregular yellow-green mosaic pattern, leaf distortion, curling, and malformation that are hallmark symptoms of this viral disease. The uneven distribution of chlorotic (yellowed) areas interspersed with normal green tissue creates the distinctive mosaic pattern that gives the disease its name. CMD is one of the most economically important and widespread diseases affecting cassava production in Africa and parts of Asia."
+      }
+    ]
+  },
+  {
+    "image": "train-cbb-244.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nCan you identify the disease on this cassava plant? Please provide a detailed analysis of the symptoms and your final diagnosis."
+      },
+      {
+        "from": "assistant",
+        "value": "The cassava leaves in the image display distinctive symptoms characteristic of bacterial infection. I can observe angular dark brown to black lesions along the leaf veins, particularly visible on several leaves. These angular spots are surrounded by yellowish margins that create a halo-like effect between the healthy green tissue and the infected areas. The affected regions appear to have a dry, papery texture, especially where the infection has progressed. Some leaves show a yellowing pattern that begins at the leaf margins and moves inward, indicating the systemic spread of infection through the vascular system. The dark discoloration along the veins (known as vein banding) is particularly telling, as these veins appear dark brown against the green leaf tissue.\n\nBased on the distinctive angular brown-black spots with yellowish margins, prominent vein banding with dark brown to black discoloration along the leaf veins, and the overall dry, papery texture of affected areas, this cassava plant is infected with Cassava Bacterial Blight (CBB). This disease is caused by the bacterium Xanthomonas axonopodis pv. manihotis. The angular nature of the lesions, their distribution along veins, and the characteristic yellowing patterns are all classic visual indicators of this bacterial infection, which can severely impact cassava production if left unmanaged."
+      }
+    ]
+  },
+  {
+    "image": "train-cmd-95.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat disease has infected this cassava? Provide a thorough analysis of the symptoms visible in the image and your final diagnosis."
+      },
+      {
+        "from": "assistant",
+        "value": "The cassava leaves in the image display distinctive abnormalities characteristic of viral infection. I observe an irregular mosaic pattern of light yellowish-green and dark green areas distributed across the leaf surface, creating a mottled appearance. The leaves show significant deformation with pronounced curling and puckering of the leaf tissue, particularly along the edges. The leaf blades appear twisted and distorted from their normal flat shape. There's also a reduction in leaf size compared to healthy cassava leaves, and the leaflets show an uneven, asymmetrical development. The texture of the affected leaves appears somewhat wrinkled and bubbled, with the leaf tissue between veins appearing raised in some areas. The irregular distribution of chlorotic (yellowing) areas interspersed with normal green tissue creates a distinctive patchwork appearance across the leaf surface.\n\nThis cassava plant is infected with Cassava Mosaic Disease (CMD), caused by cassava mosaic geminiviruses (CMGs). The diagnostic features visible in the image—the distinctive mosaic pattern of light and dark green areas, leaf distortion, curling, puckering, and overall reduced leaf size—are hallmark symptoms of this viral disease. CMD is transmitted primarily by the whitefly vector (Bemisia tabaci) and through the use of infected cuttings for propagation. This disease significantly impacts cassava production across Africa and parts of Asia, often resulting in substantial yield losses if not managed properly."
+      }
+    ]
+  },
+  {
+    "image": "train-cbb-350.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat disease has infected this cassava? Provide a thorough analysis of the symptoms visible in the image and your final diagnosis."
+      },
+      {
+        "from": "assistant",
+        "value": "Examining the image, I can see cassava leaves displaying characteristic symptoms of infection. The leaves show a yellowish-green discoloration with subtle angular patches visible on the leaf surface. Upon closer inspection, there appears to be some browning occurring along the leaf veins, particularly noticeable on the lower leaves. The leaf texture in the affected areas looks somewhat drier than healthy tissue, with the beginning stages of what appears to be necrotic tissue developing. The angular nature of these discolored areas is particularly significant as it suggests bacterial infection that typically spreads following the vascular system and leaf veins, creating these geometric patterns rather than circular lesions.\n\nBased on the visual symptoms observed in the image, this cassava plant is infected with Cassava Bacterial Blight (CBB), caused by the bacterium Xanthomonas axonopodis pv. manihotis. The distinctive angular leaf spots with yellowish margins, brownish discoloration along the leaf veins, and the beginning stages of necrotic tissue are hallmark signs of this bacterial disease. CBB is one of the most economically damaging diseases of cassava, capable of causing significant yield losses if left unmanaged."
+      }
+    ]
+  },
+  {
+    "image": "train-cbb-403.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nPlease diagnose the disease affecting this cassava plant. What symptoms do you observe, and what is your conclusion?"
+      },
+      {
+        "from": "assistant",
+        "value": "The cassava leaves in the image display characteristic symptoms of Cassava Bacterial Blight (CBB). I observe multiple small yellowish-green to pale yellow angular spots scattered across the leaf surface, especially prominent on the mature leaves. These spots have a distinctive angular shape rather than circular, following the leaf venation pattern. The leaf tissue in the affected areas appears slightly dry and thin compared to the healthy green tissue. The reddish-purple stems appear normal, but some leaves show an overall chlorotic (yellowish) appearance, particularly along the margins, which is consistent with the systemic nature of this bacterial infection. The angular nature of the lesions and their distribution pattern on the leaf blade is particularly diagnostic.\n\nThis cassava plant is infected with Cassava Bacterial Blight (CBB), caused by the bacterium Xanthomonas axonopodis pv. manihotis. The characteristic angular yellow-green spots that follow the leaf venation pattern are hallmark symptoms of this disease. CBB is a serious bacterial disease of cassava that can cause significant yield losses if not managed properly. The infection typically begins on leaves but can become systemic, eventually affecting the entire plant including stems and storage roots."
+      }
+    ]
+  },
+  {
+    "image": "train-cbb-155.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat is wrong with this cassava plant? Analyze the symptoms and identify the specific disease affecting it."
+      },
+      {
+        "from": "assistant",
+        "value": "The cassava leaves in the image display distinctive symptoms of disease, primarily characterized by dark reddish-brown angular lesions along the leaf margins and between the veins. These angular spots have a defined shape that follows the leaf venation pattern. The affected tissue appears dry and slightly papery in texture, with the lesions having sharp boundaries against the healthy green tissue. Some leaves show brownish discoloration along the veins, creating a network-like pattern of infection. The angular nature of these spots is particularly significant, as they are confined by the leaf veins, which is characteristic of bacterial infections in cassava. The healthy portions of the leaves maintain their deep green color, creating a stark contrast with the diseased areas.\n\nBased on the visual symptoms observed in the image, this cassava plant is affected by Cassava Bacterial Blight (CBB), caused by the bacterium Xanthomonas axonopodis pv. manihotis. The distinctive angular, dark reddish-brown spots confined by leaf veins, the dry papery texture of affected tissue, and the pattern of infection following the vascular system are classic indicators of this bacterial disease. CBB is one of the most economically significant bacterial diseases affecting cassava production worldwide."
+      }
+    ]
+  },
+  {
+    "image": "train-cbb-106.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nPlease diagnose the disease affecting this cassava plant. What symptoms do you observe, and what is your conclusion?"
+      },
+      {
+        "from": "assistant",
+        "value": "The image shows a cassava leaf with distinctive symptoms including dark reddish-brown angular lesions scattered across the leaf surface. These lesions appear primarily on the right portion of the leaf which displays a bright yellow coloration, indicating chlorosis. The lesions have a distinct angular shape rather than circular, following the leaf veins. The affected yellow portion of the leaf suggests progressive yellowing starting from the leaf margins, which is characteristic of bacterial infection. The contrast between the healthy green tissue on the left side and the diseased yellow tissue with brown spots on the right is quite pronounced. The lesions appear dry and somewhat necrotic, and their distribution along the veins is particularly notable.\n\nBased on these visual symptoms, this cassava plant is infected with Cassava Bacterial Blight (CBB), caused by the bacterium Xanthomonas axonopodis pv. manihotis. The characteristic angular brown spots on yellowing leaf tissue, the progression of symptoms from leaf margins inward, and the dry appearance of the lesions are all classic indicators of CBB. This bacterial disease is a significant threat to cassava production, causing yield losses through defoliation and stem die-back if left untreated."
+      }
+    ]
+  },
+  {
+    "image": "train-cbb-63.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat pathogen is affecting this cassava plant? Analyze the visible symptoms in detail and provide your diagnosis."
+      },
+      {
+        "from": "assistant",
+        "value": "The image shows cassava leaves with prominent disease symptoms, particularly on the lower leaves. I can see distinct yellowing (chlorosis) of several leaves, with one leaf showing an advanced progression from yellow to brown. There are dark brown, irregular-shaped necrotic spots on the yellowing leaf, particularly concentrated in the middle and lower portions. The spots appear angular in shape and follow along the leaf veins in some areas, creating a pattern of dark brown to black lesions. The affected leaf has a dry, papery appearance in the areas with the most severe damage. The diseased areas are sharply contrasted against the yellowing background of the leaf, and there's a visible progression of symptoms with some leaves still green while others show different stages of infection. The angular nature of the spots and their distribution along veins is particularly characteristic.\n\nThis cassava plant is infected with Cassava Bacterial Blight (CBB), caused by the bacterium Xanthomonas axonopodis pv. manihotis. The symptoms displayed are classic for this disease: angular dark brown spots on yellowing leaves, necrotic areas following leaf veins, and the progression from healthy green to yellow to brown papery necrosis. CBB is a serious bacterial disease of cassava that can cause significant yield losses if not managed. The disease typically enters through wounds or natural openings and spreads systemically through the plant, producing the characteristic symptoms visible in this image."
+      }
+    ]
+  },
+  {
+    "image": "train-cbb-95.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat pathogen is affecting this cassava plant? Analyze the visible symptoms in detail and provide your diagnosis."
+      },
+      {
+        "from": "assistant",
+        "value": "The cassava leaf in the image displays distinct symptoms characteristic of bacterial infection. I can observe a large yellowish-brown necrotic area extending between the leaf veins, creating an angular pattern. This discolored region has a clear yellowish margin that transitions to the healthy green leaf tissue. The affected area appears to have a dry, papery texture. Particularly noticeable is how the discoloration follows the vein pattern, with darker brown coloration along some of the leaf veins. The infection appears to be spreading from the leaf margins inward, creating that characteristic angular pattern rather than circular lesions. The contrast between the healthy deep green tissue and the infected yellowish-brown areas is quite pronounced.\n\nThis cassava plant is infected with Cassava Bacterial Blight (CBB), caused by the bacterium Xanthomonas axonopodis pv. manihotis (also known as Xanthomonas phaseoli pv. manihotis). The angular leaf spots with yellowish margins, vein-associated browning, and the dry, papery texture of affected tissue are hallmark symptoms of this bacterial disease. CBB is a serious bacterial pathogen that can cause significant yield losses in cassava production if left unmanaged."
+      }
+    ]
+  },
+  {
+    "image": "train-cbb-314.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nPlease diagnose the disease affecting this cassava plant. What symptoms do you observe, and what is your conclusion?"
+      },
+      {
+        "from": "assistant",
+        "value": "The cassava leaves in the image display distinctive symptoms of infection. Most noticeable are the reddish-brown angular lesions on the otherwise green leaf surface. These lesions have a defined shape with somewhat geometric edges that follow the leaf veins, rather than appearing as random circular spots. The affected areas appear to have a dry, slightly papery texture. Some leaves in the background show yellowing, particularly around the edges, which indicates chlorosis developing around infection sites. There's also evidence of discoloration along some of the leaf veins where the infection has spread through the vascular system, with darker brown streaking. The affected tissue appears necrotic and contrasts sharply with the healthy deep green tissue of the unaffected parts of the leaves.\n\nThis cassava plant is infected with Cassava Bacterial Blight (CBB), caused by the bacterium Xanthomonas axonopodis pv. manihotis. The angular brown spots with yellowing margins, progression along leaf veins, and dry necrotic tissue are hallmark symptoms of this bacterial infection. CBB is a serious disease that can cause significant yield losses in cassava production if not properly managed. The infection typically enters through natural openings or wounds and spreads systemically through the plant's vascular system, explaining the pattern of symptoms observed along veins and leaf margins."
+      }
+    ]
+  },
+  {
+    "image": "train-cbb-170.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nCan you identify the disease on this cassava plant? Please provide a detailed analysis of the symptoms and your final diagnosis."
+      },
+      {
+        "from": "assistant",
+        "value": "The cassava plant in the image shows several distinct symptoms of disease. The lower leaves display pronounced yellowing (chlorosis) with the leaf tissue turning a bright yellow-gold color. This yellowing appears to progress from the leaf edges inward. On the upper green leaves, there are visible dark brown to reddish-brown angular spots scattered across the leaf surfaces. These spots have distinct margins and appear to follow a pattern along the leaf veins in some areas. The leaf tips and margins of several leaves show browning and what appears to be tissue death (necrosis), giving those areas a dry, papery appearance. Some leaves also show a progression from green to yellow to brown, indicating disease advancement through the plant tissue.\n\nBased on the visual symptoms observed in the image, this cassava plant is infected with Cassava Bacterial Blight (CBB), caused by the bacterium Xanthomonas axonopodis pv. manihotis. The characteristic angular brown spots on green tissue, progressive yellowing of lower leaves, and necrotic areas along leaf veins are classic symptoms of this bacterial disease. CBB is a serious pathogen of cassava that can cause significant yield losses through systemic infection that eventually leads to wilting, defoliation, and stem die-back if left untreated."
+      }
+    ]
+  },
+  {
+    "image": "train-cbb-83.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nPlease diagnose the disease affecting this cassava plant. What symptoms do you observe, and what is your conclusion?"
+      },
+      {
+        "from": "assistant",
+        "value": "The cassava leaves in the image display characteristic symptoms of infection, primarily visible as distinct dark reddish-brown angular spots scattered across the leaf surface. These angular lesions have a dried, papery appearance and are particularly noticeable at the leaf margins and between leaf veins. Several spots show a yellowish-green halo surrounding the dark brown necrotic tissue, indicating progressive infection. The lesions appear to follow the leaf's vascular pattern in some areas, with dark discoloration visible along some leaf veins. The affected tissue appears dry and brittle, with some lesions showing a sunken appearance compared to the surrounding healthy green leaf tissue. The pattern of infection is asymmetrical across the leaves but consistent in appearance among the affected areas.\n\nBased on the visual symptoms observed, this cassava plant is infected with Cassava Bacterial Blight (CBB), caused by the bacterium Xanthomonas axonopodis pv. manihotis. The angular, dark brown necrotic spots with yellowish margins and the pattern of infection following leaf veins are classic indicators of this bacterial disease. CBB is a serious pathogen of cassava that can cause significant yield losses if left untreated. The disease typically spreads through rain splash, contaminated tools, and infected planting material."
+      }
+    ]
+  },
+  {
+    "image": "train-cmd-31.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nPlease diagnose the disease affecting this cassava plant. What symptoms do you observe, and what is your conclusion?"
+      },
+      {
+        "from": "assistant",
+        "value": "The cassava plant in the image exhibits distinctive visual symptoms characteristic of viral infection. I observe irregular chlorotic patterns along the leaf veins, particularly pronounced as light yellowish-green areas contrasting with the normal dark green leaf tissue. Several leaves show a distinct mosaic pattern where patches of light and dark green tissue appear in an irregular distribution. The younger leaves near the center of the plant display mild distortion and reduced size compared to what would be expected in healthy cassava. The leaf edges appear slightly curled inward in some areas, and the overall leaf morphology shows subtle deformation, particularly in the newer growth. The pattern of discoloration follows the veins in some areas, creating a mottled appearance of yellowish-green against the natural dark green background of the leaf surface.\n\nBased on these specific visual symptoms, this cassava plant is infected with Cassava Mosaic Disease (CMD). CMD is caused by several species of geminiviruses in the family Geminiviridae, primarily transmitted by whiteflies (Bemisia tabaci) and through infected cuttings. The characteristic mosaic pattern of light and dark green areas, mild leaf distortion, and the vein-associated chlorosis are all classic indicators of CMD infection. This viral disease is one of the most economically important cassava diseases in many growing regions, capable of causing significant yield reductions of 20-95% depending on virus strain and time of infection."
+      }
+    ]
+  },
+  {
+    "image": "train-cbb-382.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nCan you identify the disease on this cassava plant? Please provide a detailed analysis of the symptoms and your final diagnosis."
+      },
+      {
+        "from": "assistant",
+        "value": "The image shows a young cassava leaf with distinctive symptoms of disease. I can observe angular tan to light brown spots with yellowing margins on several of the leaf lobes. These spots appear to have a dry, somewhat papery texture and are primarily located between or adjacent to the leaf veins. The leaf itself maintains its overall green color, but these tan-brown lesions create a contrast against the healthy tissue. Some spots appear to be spreading from the leaf margins inward. The reddish-purple petiole (leaf stem) appears normal, but the presence of these angular necrotic areas on multiple parts of the otherwise young, newly expanding leaf is significant.\n\nBased on the visual symptoms observed, this cassava plant is infected with Cassava Bacterial Blight (CBB), caused by the bacterium Xanthomonas axonopodis pv. manihotis. The angular nature of the lesions, their tan to light brown coloration with yellowish borders, and their distribution pattern on the leaf are characteristic of this bacterial pathogen. CBB is a serious disease of cassava that can lead to significant yield losses if not managed properly, as it can progress to cause leaf wilt, defoliation, stem dieback, and eventually plant death in severe cases."
+      }
+    ]
+  },
+  {
+    "image": "train-cmd-58.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nThis is a cassava plant showing disease symptoms. Can you diagnose the condition based on the visible symptoms?"
+      },
+      {
+        "from": "assistant",
+        "value": "The cassava leaves in this image display distinct irregular mosaic patterning with sharply contrasting light yellow-green and dark green areas distributed unevenly across the leaf surface. There is clear leaf distortion and malformation visible, with several leaves showing abnormal shape development and curling along the margins. The yellow-green areas appear chlorotic and form an irregular patchwork pattern rather than following veins or forming consistent spots. Some leaves exhibit a wrinkled texture with puckering between the veins. The overall leaf arrangement appears somewhat stunted, with the characteristic palmate structure of cassava leaves being distorted. The irregular distribution of discolored areas creates a mottled appearance typical of viral infection rather than nutrient deficiency or fungal disease.\n\nBased on these visual symptoms, this cassava plant is infected with Cassava Mosaic Disease (CMD), caused by various cassava mosaic geminiviruses (CMGs). The distinctive mosaic patterning of light yellow-green and dark green areas, along with the leaf distortion, curling, and malformation are hallmark symptoms of this viral disease. CMD is one of the most economically important diseases affecting cassava production across Africa and parts of Asia, transmitted primarily by whiteflies (Bemisia tabaci) and through infected cuttings used for propagation."
+      }
+    ]
+  },
+  {
+    "image": "train-cbb-346.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nCan you identify the disease on this cassava plant? Please provide a detailed analysis of the symptoms and your final diagnosis."
+      },
+      {
+        "from": "assistant",
+        "value": "Examining the cassava leaves in the image, I can see they appear mostly healthy with deep green coloration across most of the leaf surface. There are some subtle signs of potential early disease, including small yellowish-green spots visible on a few leaves, particularly near the leaf margins. The yellowing appears as small, somewhat angular discolorations that contrast with the otherwise healthy green tissue. I notice slight darkening along some leaf veins, though it's minimal. The leaf edges maintain their normal shape without significant wilting or distortion. The texture of the leaves appears mostly smooth and intact, with perhaps slight dryness in very limited areas where the discoloration is present. The symptoms are quite mild and could potentially represent the very early stages of infection.\n\nBased on the subtle symptoms visible in the image, this could be Cassava Bacterial Blight (CBB) caused by Xanthomonas axonopodis pv. manihotis in its very early stage. However, the infection appears quite minimal, as the plant shows only limited symptoms with small yellowish spots and minimal vein darkening. The majority of the foliage appears healthy, suggesting this is either a resistant variety or the disease is in its initial phase. Regular monitoring would be advised to catch any progression of symptoms before they become more severe."
+      }
+    ]
+  },
+  {
+    "image": "train-cbb-313.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat pathogen is affecting this cassava plant? Analyze the visible symptoms in detail and provide your diagnosis."
+      },
+      {
+        "from": "assistant",
+        "value": "The cassava leaf in the image displays several characteristic symptoms of bacterial infection. I can observe a yellowish-green coloration across most of the leaf surface, which indicates chlorosis. There are distinct angular dark brown to black lesions, particularly visible in the lower portion of the leaf. These angular lesions follow the leaf veins in certain areas, creating a pattern of dark discoloration along vascular tissue. The affected tissue appears thin and papery in texture, especially in the areas with dark lesions. The margins of some lesions show a yellowish halo or transition zone between healthy and infected tissue. Additionally, there appears to be some leaf distortion and wilting at the edges, suggesting the disease is affecting the leaf's vascular structure and water transport.\n\nBased on these visual symptoms, this cassava plant is infected with Cassava Bacterial Blight (CBB), caused by the bacterium Xanthomonas axonopodis pv. manihotis (also known as Xanthomonas phaseoli pv. manihotis). The angular dark lesions with yellowish margins, the vein-associated necrosis, and the overall chlorosis pattern are highly characteristic of this bacterial pathogen. CBB is a significant disease affecting cassava production worldwide, causing yield losses through reduced photosynthetic area and, in severe cases, plant death."
+      }
+    ]
+  },
+  {
+    "image": "train-cbb-407.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nThis cassava plant appears diseased. What condition is it suffering from? Analyze the visible symptoms and explain your reasoning."
+      },
+      {
+        "from": "assistant",
+        "value": "The cassava plant in the image shows early symptoms of Cassava Bacterial Blight (CBB). I can observe small, dark angular spots on several leaves, particularly evident on the margins of some leaves in the upper left portion of the image. There's a slight yellowing beginning to form around these darker spots, creating a subtle halo effect. Some leaves show early signs of vein-associated browning, where the infection appears to be spreading from the veins outward. The affected tissue appears to have a different texture than the healthy green portions - slightly drier and beginning to develop the characteristic papery texture. The reddish stems appear normal, suggesting the infection is still in early stages and primarily affecting the leaf tissue rather than having progressed to systemic infection.\n\nThis plant is suffering from Cassava Bacterial Blight (CBB), caused by the bacterium Xanthomonas axonopodis pv. manihotis (also known as Xanthomonas phaseoli pv. manihotis). The infection appears to be in its early stages, as the symptoms are not yet severe across the entire plant. Early intervention with appropriate disease management strategies would be advisable to prevent further spread and crop damage."
+      }
+    ]
+  },
+  {
+    "image": "train-cbb-140.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat is wrong with this cassava plant? Analyze the symptoms and identify the specific disease affecting it."
+      },
+      {
+        "from": "assistant",
+        "value": "The cassava leaf in the image shows distinctive symptoms of disease, including pronounced yellowing (chlorosis) of the entire leaf blade, with the leaf veins maintaining a striking reddish-purple coloration that contrasts sharply with the yellow leaf tissue. There are dark brown to blackish necrotic areas visible along the leaf margins and tips, where the tissue appears dry and papery. Some areas of the leaf edges show irregular browning and death of tissue with angular patterns. The affected leaf also exhibits an overall wilting appearance, and there appears to be some dark spotting along the veins. The contrast between the yellowed leaf tissue and the reddish-purple veins is particularly characteristic, as is the progression of necrosis from the leaf edges inward.\n\nBased on these visual symptoms, this cassava plant is suffering from Cassava Bacterial Blight (CBB), caused by Xanthomonas axonopodis pv. manihotis. The yellowing of the leaf with prominent reddish-purple veins, angular necrotic spots, and the dry, papery texture of dead tissue at the leaf margins are classic manifestations of this bacterial infection. CBB is a serious vascular disease that can cause significant yield losses in cassava production, as the bacteria move systemically through the plant, eventually leading to wilting and death of affected parts."
+      }
+    ]
+  },
+  {
+    "image": "train-cmd-71.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat disease has infected this cassava? Provide a thorough analysis of the symptoms visible in the image and your final diagnosis."
+      },
+      {
+        "from": "assistant",
+        "value": "The cassava leaves in the image display characteristic symptoms of Cassava Mosaic Disease (CMD). I observe distinct light green to yellowish-green patches creating an irregular mosaic pattern across the leaf surfaces, contrasting with the normal dark green tissue. Several leaves show significant distortion and malformation, with curled edges and an abnormal growth pattern. The mosaic pattern is particularly evident in the younger leaves near the top of the plant, showing irregular light and dark green patches distributed across the leaf blade. The affected leaves appear reduced in size compared to healthy cassava leaves, and some show a slight puckering texture where the yellowed areas meet the green tissue. The pattern of chlorosis (yellowing) follows the leaf veins in some areas, creating a mottled appearance rather than uniform discoloration.\n\nThis plant is infected with Cassava Mosaic Disease (CMD), caused by several species of begomoviruses in the family Geminiviridae, primarily transmitted by the whitefly Bemisia tabaci. The distinct mosaic patterning, leaf distortion, and reduction in leaf size are hallmark symptoms of this viral infection. CMD is one of the most economically significant diseases affecting cassava production across Africa and parts of Asia, causing yield losses of 20-95% depending on the viral strain and time of infection. The visual evidence in this image provides a clear diagnosis of Cassava Mosaic Disease."
+      }
+    ]
+  },
+  {
+    "image": "train-cmd-18.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nCan you identify the disease on this cassava plant? Please provide a detailed analysis of the symptoms and your final diagnosis."
+      },
+      {
+        "from": "assistant",
+        "value": "The cassava leaf in the image displays prominent irregular mosaic patterns characterized by a distinct contrast between normal deep green tissue and yellowing areas. These yellowing regions appear as pale yellow-green patches distributed across the leaf surface in an asymmetrical, mottled pattern. The leaf shows significant deformation with distorted edges and an irregular shape compared to healthy cassava leaves. There's visible leaf curling along the margins where the tissue appears to be buckling and folding inward. The leaf veins remain dark green while the tissue between veins shows the most pronounced yellowing. This particular pattern creates a striking contrast between the veins and interveinal areas. Additionally, the leaf appears to have reduced size compared to normal cassava leaves, suggesting stunted growth. The distribution of symptoms is uneven across the leaf surface, creating the characteristic mosaic appearance.\n\nThis cassava plant is infected with Cassava Mosaic Disease (CMD), caused by cassava mosaic geminiviruses (family Geminiviridae, genus Begomovirus). The distinctive yellow-green mosaic patterning, leaf distortion, curling, and reduced leaf size are classic symptoms of this viral disease. CMD is one of the most economically important diseases affecting cassava production across Africa and parts of Asia, transmitted primarily by the whitefly Bemisia tabaci and through infected cuttings. The severity of symptoms visible in this specimen indicates an established infection that is significantly impacting the plant's photosynthetic capacity and likely reducing overall yield."
+      }
+    ]
+  },
+  {
+    "image": "train-cbb-351.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nThis cassava plant appears diseased. What condition is it suffering from? Analyze the visible symptoms and explain your reasoning."
+      },
+      {
+        "from": "assistant",
+        "value": "The image shows cassava leaves with distinct symptoms of disease. I can observe multiple dark brown to black angular spots scattered across the yellowing leaf surface. The affected leaf displays a progressive yellowing (chlorosis) spreading from the central veins outward, creating a mottled green-yellow appearance. The spots have a distinctive angular shape rather than circular, with defined edges following the leaf veins. Some lesions appear to have dried out, giving them a papery, thin texture. There's also evidence of necrotic (dead) tissue along the leaf margins and between the veins, with dark brown patches that appear to be spreading. The pattern of infection shows the characteristic progression from leaf base toward the tips, with the most severe symptoms visible in the central portion of the leaf.\n\nThis leaf is displaying classic symptoms of Cassava Bacterial Blight (CBB), caused by the bacterium Xanthomonas axonopodis pv. manihotis. The angular dark brown spots bounded by leaf veins, the progressive yellowing around infection sites, and the pattern of infection spreading along the vascular system are hallmark signs of this bacterial disease. CBB is a serious bacterial pathogen of cassava that can cause significant yield losses if not managed properly through the use of resistant varieties and cultural practices."
+      }
+    ]
+  },
+  {
+    "image": "train-cbb-375.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nCan you identify the disease on this cassava plant? Please provide a detailed analysis of the symptoms and your final diagnosis."
+      },
+      {
+        "from": "assistant",
+        "value": "The cassava leaf in the image shows characteristic symptoms of early-stage Cassava Bacterial Blight infection. I can observe a distinct reddish-brown angular lesion with a yellowish margin on the lower left portion of one leaf. The affected area appears to have a dry, papery texture that contrasts with the healthy green tissue. Along some of the leaf veins, there are slight darkened areas beginning to form, which is consistent with the vascular spread pattern of bacterial blight. The lesion has a sharp, angular shape rather than circular, which is characteristic of bacterial rather than fungal infections. The surrounding leaf tissue is beginning to show a slight yellowing adjacent to the infected area, indicating the spread of bacterial toxins through the leaf.\n\nThis plant is infected with Cassava Bacterial Blight (CBB), caused by the bacterium Xanthomonas axonopodis pv. manihotis. The angular, reddish-brown lesion with yellowish margins is a definitive early symptom of this bacterial disease. If left untreated, the infection will likely progress to more extensive leaf blight, vein necrosis, and potentially systemic infection that could lead to wilting, die-back of shoots, and production of gum exudates on stems. CBB is a serious cassava disease requiring prompt management to prevent spread to other plants."
+      }
+    ]
+  },
+  {
+    "image": "train-cbb-179.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat is wrong with this cassava plant? Analyze the symptoms and identify the specific disease affecting it."
+      },
+      {
+        "from": "assistant",
+        "value": "The cassava plant in the image shows characteristic symptoms of bacterial infection, particularly on the lower leaves. I can see distinct reddish-brown to purple angular lesions on several leaves, especially visible on the left side of the image. These angular spots have well-defined margins that follow the leaf veins, creating a geometric pattern rather than circular spots. Some affected areas appear to have a dry, papery texture where the tissue is beginning to die. The lesions show a contrast against the otherwise healthy green leaf tissue. There's also yellowing visible around some of the infected areas, creating a halo effect that indicates the spread of bacterial toxins into surrounding tissue. The infection appears to be in early to moderate stages, as most of the leaf surface is still green.\n\nThis cassava plant is suffering from Cassava Bacterial Blight (CBB), caused by the bacterium Xanthomonas axonopodis pv. manihotis. The angular shape of the lesions, their reddish-brown to purple coloration, and the pattern of infection following leaf veins are all classic indicators of this bacterial disease. CBB is a serious bacterial disease of cassava that can cause significant yield losses if left untreated. The infection typically begins on lower leaves and progresses upward under favorable conditions like high humidity and rainfall."
+      }
+    ]
+  },
+  {
+    "image": "train-cbb-434.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nPlease examine this cassava plant and identify the disease. Describe the symptoms you observe and provide your diagnosis with reasoning."
+      },
+      {
+        "from": "assistant",
+        "value": "The cassava leaves in the image show distinct pathological features including dark brown to black angular lesions with sharp edges scattered across the leaf surface. These angular spots have a dry, papery texture and are particularly evident on the lower leaf sections. I can also observe yellowing (chlorosis) of the leaf tissue surrounding these necrotic spots, creating a yellow halo or margin effect. Some lesions appear to follow along the leaf veins, forming dark brown to black streaks that follow the vascular tissue. The overall leaf structure displays a combination of healthy green tissue interspersed with these diseased areas, and some leaves show extensive yellowing as the infection progresses. The angular nature of these spots is particularly characteristic, as they appear constrained by leaf veins, creating geometric rather than circular shapes.\n\nBased on the visual symptoms observed, this cassava plant is infected with Cassava Bacterial Blight (CBB), caused by the bacterium Xanthomonas axonopodis pv. manihotis. The distinctive angular dark brown to black lesions with yellow margins, the vein-associated necrosis, and the progression pattern of the disease from individual spots to more extensive leaf yellowing are all hallmark symptoms of this bacterial infection. CBB is a serious bacterial disease of cassava that can lead to significant yield losses if left unmanaged."
+      }
+    ]
+  },
+  {
+    "image": "train-cbb-364.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat is wrong with this cassava plant? Analyze the symptoms and identify the specific disease affecting it."
+      },
+      {
+        "from": "assistant",
+        "value": "The cassava leaf in the image shows clear symptoms of Cassava Bacterial Blight (CBB). I can observe distinct angular dark brown lesions along the leaf margins and between the veins. These angular spots have yellowish borders transitioning into the healthy green tissue. The leaf veins surrounding these lesions appear slightly darker in color, showing the characteristic vein-associated necrosis typical of this disease. The affected areas display a dry, papery texture that contrasts with the otherwise healthy green portions of the leaf. The infection pattern is concentrated along the edges of the leaf lobes, with some lesions showing coalescing patterns as the infection progresses inward from the margins.\n\nThis cassava plant is infected with Cassava Bacterial Blight (CBB), caused by the bacterium Xanthomonas axonopodis pv. manihotis (also known as Xanthomonas phaseoli pv. manihotis). The characteristic angular leaf spots with yellowish margins, vein-associated browning, and dry necrotic areas are hallmark symptoms of this bacterial infection. CBB is a significant disease affecting cassava production worldwide, particularly in tropical regions, and can cause substantial yield losses if not managed properly."
+      }
+    ]
+  },
+  {
+    "image": "train-cbb-141.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nThis is a cassava plant showing disease symptoms. Can you diagnose the condition based on the visible symptoms?"
+      },
+      {
+        "from": "assistant",
+        "value": "The cassava leaves in the image display distinct symptoms consistent with disease infection. I can observe irregular yellowish-green discoloration across the leaf surfaces, particularly notable at the leaf margins which show a progression from normal green to pale yellow-green. There are small dark brown to black angular spots visible on several leaves, especially noticeable on the upper leaf in the image. These spots appear to follow the leaf veins in some areas. The affected tissue appears to have a slightly dry texture compared to the healthy green portions. Some leaves show an uneven chlorosis (yellowing) pattern that begins from the edges and moves inward. The leaf structure remains intact, but the discoloration pattern suggests bacterial infection rather than nutritional deficiency.\n\nBased on the visual symptoms observed, this cassava plant is affected by Cassava Bacterial Blight (CBB), caused by the bacterium Xanthomonas axonopodis pv. manihotis. The characteristic angular dark spots following the leaf veins, the yellowing leaf margins, and the pattern of discoloration are all classic symptoms of this bacterial infection. CBB is a serious disease of cassava that can significantly reduce yields and quality, especially under favorable conditions for disease development such as high humidity and rainfall."
+      }
+    ]
+  },
+  {
+    "image": "train-cmd-49.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nPlease examine this cassava plant and identify the disease. Describe the symptoms you observe and provide your diagnosis with reasoning."
+      },
+      {
+        "from": "assistant",
+        "value": "The cassava leaves in this image display distinctive visual symptoms characteristic of viral infection. I observe an irregular mosaic pattern with patches of bright yellow-green areas scattered across the normal dark green leaf tissue, creating a mottled appearance. The leaves show significant distortion and curling, particularly evident in the lower leaves which appear twisted and malformed from their typical shape. The mosaic pattern is not uniform but follows a blotchy distribution along the leaf surface, with some areas showing intense yellowing while others retain their dark green coloration. The leaf margins appear slightly deformed, and the overall leaf structure shows reduced size compared to healthy cassava leaves. The distinctive contrast between the bright yellow-green patches and the normal dark green tissue creates a striking mosaic effect that follows the veins in some areas.\n\nBased on these visual symptoms, this cassava plant is infected with Cassava Mosaic Disease (CMD), caused by cassava mosaic geminiviruses. The characteristic irregular mosaic pattern of light yellow-green and dark green areas, the leaf distortion, curling, and reduced leaf size are definitive symptoms of this viral disease. CMD is one of the most economically important diseases affecting cassava production in Africa and parts of Asia, transmitted primarily by whiteflies (Bemisia tabaci) and through infected cuttings used for propagation."
+      }
+    ]
+  },
+  {
+    "image": "train-cmd-78.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat disease is affecting this cassava plant? Please analyze the symptoms visible in the image and provide your diagnosis with reasoning."
+      },
+      {
+        "from": "assistant",
+        "value": "The cassava leaves in the image display distinct symptoms of a viral infection. The most prominent features are the irregular mosaic patterning with patches of light yellow-green and dark green areas distributed across the leaf surface. Several leaves show severe distortion and curling, particularly visible on the right side where the leaf margins are twisted and folded inward. The normal palmate leaf structure is compromised, with some leaflets appearing narrower than healthy ones would be. There is also evident leaf deformation where the normal leaf shape is not maintained, creating an asymmetrical appearance. The mosaic pattern is not uniform but appears as irregular blotches of contrasting green shades, and some leaves exhibit a crinkled texture along their surfaces.\n\nThis cassava plant is affected by Cassava Mosaic Disease (CMD), caused by cassava mosaic geminiviruses. The distinctive yellow-green mosaic patterns, severe leaf distortion, curling, and reduction in leaf size are classical symptoms of this viral disease. CMD is one of the most economically important diseases of cassava in Africa and parts of Asia, transmitted primarily by whiteflies (Bemisia tabaci) and through infected cuttings used for propagation. The virus interferes with chlorophyll production, creating the characteristic mosaic pattern visible in these leaves."
+      }
+    ]
+  },
+  {
+    "image": "train-cmd-42.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat pathogen is affecting this cassava plant? Analyze the visible symptoms in detail and provide your diagnosis."
+      },
+      {
+        "from": "assistant",
+        "value": "The cassava plant in the image displays distinctive symptoms characteristic of viral infection. The leaves show a prominent irregular mosaic pattern with bright yellow-green patches interspersed with normal dark green tissue. This patchwork appearance is particularly noticeable along the leaf margins and between the veins. Several leaves appear distorted and slightly curled, with the normal leaf morphology compromised. The yellow-green areas have an uneven distribution, creating a mottled appearance rather than uniform discoloration. The leaf on the right shows more severe symptoms with greater yellow-green areas and more pronounced distortion compared to others. The contrast between the healthy dark green tissue and the affected yellow-green areas is sharp and clearly defined along irregular boundaries.\n\nThis cassava plant is infected with Cassava Mosaic Disease (CMD), caused by cassava mosaic geminiviruses (family Geminiviridae, genus Begomovirus). The distinctive irregular mosaic pattern of light yellow-green and dark green areas, leaf distortion, and curling are the classic visual signatures of this viral disease. CMD is one of the most economically important cassava diseases in Africa and parts of Asia, transmitted primarily by the whitefly Bemisia tabaci and through infected cuttings used for propagation."
+      }
+    ]
+  },
+  {
+    "image": "train-cmd-89.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nThis cassava plant appears diseased. What condition is it suffering from? Analyze the visible symptoms and explain your reasoning."
+      },
+      {
+        "from": "assistant",
+        "value": "The cassava plant in the image exhibits distinct visual symptoms characteristic of viral infection. The leaves display a prominent irregular mosaic pattern with patches of light yellow-green areas interspersed with normal dark green tissue. This creates a mottled appearance across the leaf surface. Several leaves show distortion and mild curling along their edges, with the leaf shape appearing somewhat twisted compared to normal cassava leaves. The veins appear yellower than the surrounding tissue in affected areas. The mosaic pattern is not uniform but rather displays irregular patches that follow no specific pattern. The affected leaves also appear slightly reduced in size compared to what would be expected in healthy cassava plants, with some showing asymmetrical development where one side of the leaf appears more affected than the other.\n\nThis cassava plant is suffering from Cassava Mosaic Disease (CMD), caused by cassava mosaic geminiviruses. The characteristic irregular light and dark green mosaic pattern, yellow-green mottling, leaf distortion, and mild curling are classic symptoms of this viral disease. CMD is one of the most economically significant diseases affecting cassava production across Africa and parts of Asia, transmitted primarily by whiteflies (Bemisia tabaci) and through the use of infected stem cuttings for propagation. The severity of symptoms visible in this plant suggests active viral replication and systemic infection throughout the plant tissues."
+      }
+    ]
+  },
+  {
+    "image": "train-cbb-130.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat is wrong with this cassava plant? Analyze the symptoms and identify the specific disease affecting it."
+      },
+      {
+        "from": "assistant",
+        "value": "Examining the cassava plant image, I can see several concerning symptoms. Most notably, there are dark brown angular spots on some of the leaves, particularly visible on the left side leaves. These spots have a distinctive angular shape that follows the leaf veins. Along the leaf margins, especially on the lower left leaf, there's a yellowish discoloration transitioning into the healthy green tissue. Some leaves show small necrotic (dead) areas with a dry, papery texture. The pattern of infection appears to follow the vascular system of the plant, with brown-black discoloration along some of the leaf veins. The affected leaf tissue has a distinctly different texture compared to the healthy green portions, appearing brittle and desiccated.\n\nThe symptoms observed in this cassava plant are characteristic of Cassava Bacterial Blight (CBB), caused by the bacterium Xanthomonas axonopodis pv. manihotis. The angular leaf spots, yellowish margins around infected areas, vein-associated necrosis, and the dry papery texture of affected tissue are all classic indicators of this bacterial disease. CBB is a serious bacterial pathogen of cassava that can significantly reduce yields and cause economic losses in cassava-growing regions worldwide."
+      }
+    ]
+  },
+  {
+    "image": "train-cbb-209.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nCan you identify the disease on this cassava plant? Please provide a detailed analysis of the symptoms and your final diagnosis."
+      },
+      {
+        "from": "assistant",
+        "value": "The cassava leaf shows clear symptoms of disease progression with distinctive visual features. I observe yellowing (chlorosis) of the lower leaf lobes, which shows a gradient pattern - transitioning from the normal green color at the top to a bright yellow at the bottom portions. Some leaf edges appear slightly brown, indicating tissue necrosis. The yellowing pattern follows the leaf veins and spreads outward, which is characteristic of systemic infection. The main leaf veins remain prominently green against the yellowing tissue, creating a distinct contrast. There are also small dark spots visible on some of the leaf surfaces, potentially indicating the beginning stages of necrotic lesions. The overall pattern suggests a systemic infection that affects the plant's vascular system.\n\nThe symptoms exhibited in this cassava plant are consistent with Cassava Bacterial Blight (CBB), caused by the bacterium Xanthomonas axonopodis pv. manihotis. The characteristic yellowing progressing from the lower portions of the leaves, the vein-associated pattern of chlorosis, and the beginning signs of necrotic lesions are all typical manifestations of this bacterial disease. CBB is a significant bacterial disease affecting cassava production worldwide, particularly in tropical and subtropical regions where cassava is an important food security crop."
+      }
+    ]
+  },
+  {
+    "image": "train-cbb-392.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat disease is affecting this cassava plant? Please analyze the symptoms visible in the image and provide your diagnosis with reasoning."
+      },
+      {
+        "from": "assistant",
+        "value": "The cassava leaf exhibits distinctive angular grayish-brown to light brown spots scattered across the leaf surface. These spots appear dry with a papery texture, and some have yellowish halos or margins surrounding them. I notice several of these lesions are positioned along the leaf veins, particularly visible on the left side of the leaf where some darker brown necrotic areas follow the vein pattern. The affected tissue appears thin and brittle compared to the healthy green tissue. The angular nature of these spots is characteristic, as they seem constrained by the leaf veins, creating geometric rather than circular patterns. Some spots have coalesced to form larger necrotic patches, especially visible on the leaf margins.\n\nThis cassava plant is infected with Cassava Bacterial Blight (CBB), caused by the bacterium Xanthomonas axonopodis pv. manihotis. The angular leaf spots with yellowish margins, the dry papery texture of affected tissue, and the distinctive pattern of lesions associated with leaf veins are all classic symptoms of this bacterial disease. CBB is a significant bacterial disease of cassava that can spread through the vascular system of the plant, potentially leading to wilting and dieback if the infection progresses."
+      }
+    ]
+  },
+  {
+    "image": "train-cmd-46.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nThis cassava plant appears diseased. What condition is it suffering from? Analyze the visible symptoms and explain your reasoning."
+      },
+      {
+        "from": "assistant",
+        "value": "The cassava leaves in the image display clear signs of chlorosis with an irregular mosaic pattern. The leaves show distinct patches of light yellow-green areas interspersed with normal dark green tissue, creating a mottled appearance. This irregular patterning is particularly noticeable along the leaf veins and edges. Some leaves appear slightly distorted with mild curling at the edges. The mosaic pattern is asymmetrical, affecting different parts of the leaves with varying intensity. The yellowing appears blotchy rather than uniform, with some areas showing a more intense yellowing while others maintain more of their green coloration. This pattern of irregular chlorosis is typical of viral infection rather than nutrient deficiency, which would typically cause more uniform yellowing.\n\nThis cassava plant is suffering from Cassava Mosaic Disease (CMD), caused by cassava mosaic geminiviruses. The characteristic yellow-green mosaic pattern, the irregular distribution of chlorotic areas, and the mild leaf distortion are hallmark symptoms of this viral disease. CMD is one of the most economically significant diseases affecting cassava production, transmitted primarily by whiteflies (Bemisia tabaci) and through infected plant material. Early intervention through the removal of infected plants and use of virus-free planting material is crucial to prevent spread to healthy plants."
+      }
+    ]
+  },
+  {
+    "image": "train-cmd-35.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat is wrong with this cassava plant? Analyze the symptoms and identify the specific disease affecting it."
+      },
+      {
+        "from": "assistant",
+        "value": "The cassava leaf in the image exhibits severe deformation and distinctive coloration patterns characteristic of viral infection. The leaf shows pronounced distortion with curling and twisting of the leaf margins, giving it a crumpled appearance. There is a notable irregular mosaic pattern with patches of light yellowish-green areas interspersed with normal dark green tissue, creating a mottled effect across the leaf surface. The leaf has lost its typical palm-shaped structure and appears severely stunted and reduced in size. The veins remain green while the surrounding tissue shows chlorosis (yellowing). This uneven coloration combined with the dramatic leaf distortion and reduction in leaf size are hallmark visual symptoms of viral interference with normal cellular development and chlorophyll production.\n\nThe cassava plant is affected by Cassava Mosaic Disease (CMD), caused by cassava mosaic geminiviruses (family Geminiviridae, genus Begomovirus). This disease is characterized by the distinctive mosaic patterning, leaf distortion, and stunting visible in the image. CMD is one of the most economically important viral diseases of cassava in Africa and parts of Asia, transmitted primarily by the whitefly Bemisia tabaci and through infected cuttings. The severe leaf deformation and chlorotic patterns seen here are consistent with advanced infection that significantly reduces photosynthetic capacity and can lead to yield losses of 20-95% depending on the viral strain and time of infection."
+      }
+    ]
+  },
+  {
+    "image": "train-cbb-406.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat pathogen is affecting this cassava plant? Analyze the visible symptoms in detail and provide your diagnosis."
+      },
+      {
+        "from": "assistant",
+        "value": "The cassava leaves exhibit distinct symptoms characterized by angular dark green to blackish-brown lesions scattered across the yellowing leaf surfaces. These angular spots have well-defined borders and appear concentrated along the leaf veins in some areas. The affected leaves show a general yellowing (chlorosis) spreading from the center outward, with the discoloration appearing more intense on some leaves than others. The lesions have a flat, somewhat dry appearance rather than raised or wet. The pattern of infection follows the leaf venation in several places, with some lesions coalescing to form larger affected areas. The reddish-purple stems appear healthy, suggesting the infection is primarily affecting the leaf tissue. The contrast between healthy green leaves in the background and the infected yellowish leaves with dark angular spots is quite pronounced.\n\nThis cassava plant is infected with Cassava Bacterial Blight (CBB), caused by the bacterium Xanthomonas axonopodis pv. manihotis (also known as Xanthomonas campestris pv. manihotis). The characteristic angular dark lesions on yellowing leaves, distribution of spots along vein patterns, and the overall chlorosis of affected leaves are typical symptoms of this bacterial infection. CBB is a serious bacterial disease of cassava that can spread systemically throughout the plant and cause significant crop losses if left untreated."
+      }
+    ]
+  },
+  {
+    "image": "train-cbb-308.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat pathogen is affecting this cassava plant? Analyze the visible symptoms in detail and provide your diagnosis."
+      },
+      {
+        "from": "assistant",
+        "value": "The leaf shows distinct brown lesions with irregular angular shapes on the green leaf surface. These lesions appear dried and papery in texture, with a medium brown to rust-colored center. Surrounding these brown areas is a noticeable yellowish-green halo or margin, creating a transition zone between healthy and diseased tissue. The lesions follow the leaf veins in some areas, with the central leaf vein appearing to influence the spread pattern of the infection. The angular nature of these spots is particularly characteristic, as they seem constrained by the leaf veins, creating geometric rather than circular patterns. The affected areas look dry and possibly crisp, suggesting tissue necrosis rather than soft rot.\n\nThis cassava plant is infected with Cassava Bacterial Blight (CBB), caused by the bacterium Xanthomonas axonopodis pv. manihotis (also known as Xanthomonas campestris pv. manihotis). The angular brown necrotic lesions with yellowish margins are classic symptoms of this bacterial infection. The pattern of spread along leaf veins is consistent with the systemic nature of this pathogen, which can move through the vascular system. CBB is a serious bacterial disease affecting cassava production worldwide, capable of causing significant yield losses if not properly managed."
+      }
+    ]
+  },
+  {
+    "image": "train-cmd-6.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nIdentify the disease affecting this cassava plant. Please analyze the visual symptoms and explain how you reached your diagnosis."
+      },
+      {
+        "from": "assistant",
+        "value": "The cassava leaves in this image display distinct irregular patterns of light green and dark green areas forming a mosaic-like appearance across the leaf surface. Several leaves show noticeable distortion and curling, particularly visible in the lower portions of the image where leaf edges appear twisted and malformed. The normal leaf shape is compromised, with some leaves appearing narrower than healthy cassava leaves should be. The light green areas have a slightly yellowish tint in patches, creating a mottled pattern rather than the uniform green color expected in healthy leaves. The contrast between the different green shades is pronounced, with clear boundaries between affected and less affected tissue within the same leaf.\n\nThis plant is affected by Cassava Mosaic Disease (CMD), caused by cassava mosaic geminiviruses. The characteristic mosaic pattern of irregular light and dark green patches on the leaves, the distortion of leaf shape, and the curling of leaf edges are all classic symptoms of this viral disease. CMD is the most economically important viral disease of cassava in Africa and parts of Asia, transmitted primarily by whiteflies (Bemisia tabaci) and through the use of infected planting materials. The severity of symptoms visible in this image suggests a significant infection that would likely impact the plant's photosynthetic capacity and ultimately reduce tuber yield."
+      }
+    ]
+  },
+  {
+    "image": "train-cbb-255.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nPlease diagnose the disease affecting this cassava plant. What symptoms do you observe, and what is your conclusion?"
+      },
+      {
+        "from": "assistant",
+        "value": "The cassava leaves in the image display characteristic symptoms of Cassava Bacterial Blight (CBB). I observe extensive yellowing (chlorosis) across the leaf surfaces, with distinct angular brown necrotic lesions along the leaf margins. These angular brown patches have a dry, papery texture and appear to be spreading inward from the edges. There are also dark green to olive-colored spots scattered across the yellowed leaf surfaces. The leaf veins show brownish discoloration, and some leaves exhibit wilting and curling. The angular nature of the lesions is particularly significant, as they follow the leaf veins in a geometric pattern typical of bacterial infections, rather than the more irregular patterns seen in fungal diseases.\n\nThis cassava plant is infected with Cassava Bacterial Blight (CBB), caused by the bacterium Xanthomonas axonopodis pv. manihotis. The combination of angular brown necrotic lesions with yellowing leaf tissue, vein-associated browning, and the distinctive dry, papery texture of the affected areas are diagnostic features of this serious bacterial disease. CBB is a major constraint to cassava production in many regions and can cause significant yield losses if not properly managed through cultural practices, clean planting material, and resistant varieties."
+      }
+    ]
+  },
+  {
+    "image": "train-cmd-68.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nPlease examine this cassava plant and identify the disease. Describe the symptoms you observe and provide your diagnosis with reasoning."
+      },
+      {
+        "from": "assistant",
+        "value": "The image shows distinctive leaf symptoms characteristic of viral infection. The cassava leaf in the foreground exhibits a clear mosaic pattern with irregular patches of light yellowish-green areas interspersed with normal dark green tissue. This creates a mottled appearance across the leaf surface. The affected leaf also shows some distortion and slight curling along the edges. The yellow-green discoloration follows the veins in some areas, creating a pattern of lighter tissue along the vascular system. The leaf appears to have an uneven surface texture due to this irregular coloration. The plant's reddish-purple stems appear normal, suggesting the disease is primarily affecting the foliage rather than causing stem lesions or dieback.\n\nThis cassava plant is infected with Cassava Mosaic Disease (CMD), caused by cassava mosaic geminiviruses. The distinctive mosaic pattern with irregular yellow-green patches, the mottling effect following veinal patterns, and the mild leaf distortion are classic symptoms of this viral disease. CMD is one of the most economically important diseases affecting cassava production in Africa and parts of Asia, transmitted primarily by whiteflies (Bemisia tabaci) and through infected cuttings used for propagation. The severity of symptoms observed suggests the infection has been established for some time in this plant."
+      }
+    ]
+  },
+  {
+    "image": "train-cbb-92.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nCan you identify the disease on this cassava plant? Please provide a detailed analysis of the symptoms and your final diagnosis."
+      },
+      {
+        "from": "assistant",
+        "value": "The cassava leaves in the image display distinct symptoms characterized by extensive pale yellowish-green to whitish mottling across the leaf surface, creating a mosaic-like pattern. This mottling appears as irregular, light-colored patches against the background of normal green leaf tissue. The discoloration follows no specific pattern but is distributed throughout the leaf surface, affecting most of the visible foliage. The leaf structure appears generally intact without notable distortion, though there may be slight curling along some leaf margins. The contrast between the lighter discolored areas and the darker green portions creates a distinctive patchwork appearance, consistent with systemic viral infection rather than localized bacterial lesions. The symptoms affect the entire leaf blade including areas along the veins.\n\nBased on the visual symptoms observed, this cassava plant is infected with Cassava Mosaic Disease (CMD), caused by cassava mosaic geminiviruses. The characteristic yellowish-green to whitish mottling in a mosaic pattern across the leaf surface is the definitive diagnostic feature of this viral disease. This is not Cassava Bacterial Blight, as there are no angular dark brown spots with yellow margins or vein necrosis visible in the image. CMD is one of the most economically important cassava diseases in Africa and parts of Asia, transmitted primarily by whiteflies and through infected planting material."
+      }
+    ]
+  },
+  {
+    "image": "train-cbb-79.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nThis cassava plant appears diseased. What condition is it suffering from? Analyze the visible symptoms and explain your reasoning."
+      },
+      {
+        "from": "assistant",
+        "value": "Examining the image, I can see cassava leaves displaying several distinctive symptoms. The leaves exhibit angular dark spots with yellowish margins distributed across the leaf surface. Some of these spots appear to be concentrated along the leaf veins, creating a pattern of dark brown to black necrotic areas that follow the vascular structure. The affected tissue has a dry, papery appearance where the infection has progressed. I also notice that the disease seems to be affecting both mature and younger leaves, with some leaves showing early-stage symptoms (smaller spots) while others display more advanced damage. The angular nature of these lesions is particularly characteristic, as they appear constrained by the leaf veins creating geometric patterns rather than circular shapes.\n\nBased on these visual symptoms, the cassava plant is suffering from Cassava Bacterial Blight (CBB), caused by the bacterium Xanthomonas axonopodis pv. manihotis. This diagnosis is supported by the presence of angular dark brown necrotic spots with yellowish halos, the distinctive pattern of damage along leaf veins, and the dry papery texture of affected tissue. Cassava Bacterial Blight is a serious bacterial disease that can cause significant yield loss in cassava production systems."
+      }
+    ]
+  },
+  {
+    "image": "train-cbb-428.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nIdentify the disease affecting this cassava plant. Please analyze the visual symptoms and explain how you reached your diagnosis."
+      },
+      {
+        "from": "assistant",
+        "value": "The cassava leaf displays several key visual symptoms characteristic of bacterial infection. Most prominently, there is a large dark brown angular lesion in the center of one leaf that shows distinct angular edges rather than circular patterns. This lesion appears dry and has a somewhat papery texture. Surrounding this brown necrotic area is a yellowish margin where the leaf tissue is transitioning from healthy green to diseased tissue. The lower portions of some leaves show a progression to a golden-yellow discoloration, indicating chlorosis spreading from the infection site. The necrotic lesion appears to follow the leaf veins in parts, which is consistent with bacteria traveling through the vascular system. The overall pattern suggests bacterial spread rather than fungal or viral infection based on the angular nature of the lesions and the specific coloration pattern.\n\nBased on these visual symptoms, this cassava plant is affected by Cassava Bacterial Blight (CBB), caused by the bacterium Xanthomonas axonopodis pv. manihotis. The distinctive angular dark brown lesions with yellowish margins, the systemic progression of symptoms down the leaf (showing the characteristic yellow discoloration), and the way the necrosis follows leaf veins are all classic signs of this bacterial disease. CBB is one of the most serious bacterial diseases affecting cassava production worldwide, capable of causing significant yield losses if not managed properly."
+      }
+    ]
+  },
+  {
+    "image": "train-cmd-28.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nThis is a cassava plant showing disease symptoms. Can you diagnose the condition based on the visible symptoms?"
+      },
+      {
+        "from": "assistant",
+        "value": "The cassava leaves display distinct mosaic patterns characterized by irregular patches of light green to yellow-green areas interspersed with normal dark green tissue. This creates a mottled appearance across the leaf surface. Several leaves show distortion and mild curling along the edges, with the leaf lamina appearing twisted rather than flat. The mosaic pattern is particularly pronounced along the veins, creating a blotchy appearance that follows the vascular network. The distribution of these chlorotic (yellowed) areas is asymmetrical across the leaf blade, and some leaves appear smaller than normal healthy cassava leaves would be. The pattern reveals itself as scattered patches rather than uniform discoloration, with sharp boundaries between affected and unaffected tissue.\n\nThis cassava plant is infected with Cassava Mosaic Disease (CMD), caused by cassava mosaic geminiviruses (family Geminiviridae, genus Begomovirus). The characteristic irregular mosaic pattern, the yellow-green mottling, and the mild leaf distortion are classic symptoms of this viral disease. CMD is one of the most economically important diseases of cassava in Africa and parts of Asia, transmitted primarily by the whitefly Bemisia tabaci and through infected cuttings used for propagation. The virus replicates in the plant's phloem tissue, disrupting chlorophyll production and causing the distinctive mosaic symptoms visible in this specimen."
+      }
+    ]
+  },
+  {
+    "image": "train-cbb-205.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat pathogen is affecting this cassava plant? Analyze the visible symptoms in detail and provide your diagnosis."
+      },
+      {
+        "from": "assistant",
+        "value": "The cassava leaves in the image display distinct signs of disease, particularly noticeable in the color patterns. I observe a prominent yellowing (chlorosis) starting from the central portions of the leaf and extending outward. This yellowing is not uniform but appears to follow the veins, creating a pattern where the leaf tissue between veins shows more intense discoloration. The leaf margins remain somewhat greener, while the internal portions show progressive yellowing that transitions to light brown in some areas. The reddish-purple leaf veins stand in stark contrast against this yellowing background. Some leaves show small dark spots or patches that appear angular in shape rather than circular. The affected leaf tissue has a slightly dry, papery appearance typical of bacterial infection rather than fungal diseases which often produce fuzzy or powdery textures.\n\nThis cassava plant is infected with Cassava Bacterial Blight (CBB), caused by the bacterium Xanthomonas axonopodis pv. manihotis. The characteristic symptoms visible in the image include the angular leaf spots, yellowish chlorosis with a distinctive pattern following the vascular system, and the contrast between the reddish-purple veins and yellowing leaf tissue. CBB is a serious bacterial disease of cassava that can cause significant yield losses if not properly managed through the use of disease-free planting materials, resistant varieties, and proper field sanitation practices."
+      }
+    ]
+  },
+  {
+    "image": "train-cbb-326.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat disease is affecting this cassava plant? Please analyze the symptoms visible in the image and provide your diagnosis with reasoning."
+      },
+      {
+        "from": "assistant",
+        "value": "The cassava plant in the image displays several diagnostic symptoms. The leaves show a yellowish-green coloration overall, which suggests chlorosis. There are distinct dark brown angular lesions visible on some of the leaves, particularly noticeable on the left side of the image. These lesions have well-defined edges and appear dry with a papery texture. Along some of the leaf veins, there is a brownish discoloration, indicating that the pathogen is spreading through the vascular system. The infection pattern follows the leaf veins in a characteristic angular pattern, and some leaves show small dark necrotic spots. The affected tissue appears to have a dry, brittle quality where the infection has progressed, contrasting with the otherwise healthy-looking leaf tissue.\n\nBased on these visual symptoms, this cassava plant is affected by Cassava Bacterial Blight (CBB), caused by Xanthomonas axonopodis pv. manihotis. The angular brown lesions with yellowish margins, vein-associated necrosis, and the dry papery texture of infected areas are classic symptoms of this bacterial disease. CBB is a serious bacterial disease of cassava that typically begins with angular leaf spots before progressing to systemic infection of the vascular system, eventually leading to wilting and die-back if left untreated."
+      }
+    ]
+  },
+  {
+    "image": "train-cbb-296.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nCan you identify the disease on this cassava plant? Please provide a detailed analysis of the symptoms and your final diagnosis."
+      },
+      {
+        "from": "assistant",
+        "value": "The cassava leaf in the image shows several distinctive symptoms. Most notably, there are angular dark areas along the leaf veins, with some browning visible at certain points along the venation pattern. The leaf edges display yellowish discoloration, particularly evident as a slight yellowing margin in contrast to the predominantly green tissue. There are also visible angular spots with a darker brown coloration on some portions of the leaf surface. The affected areas appear to have a somewhat dry, papery texture, especially where the discoloration is most pronounced. The angular nature of these lesions is characteristic as they follow and are limited by the leaf veins, creating geometric patterns rather than circular spots.\n\nBased on the visual symptoms observed in the image, this cassava plant is infected with Cassava Bacterial Blight (CBB), caused by the bacterium Xanthomonas axonopodis pv. manihotis. The angular leaf spots with yellowish margins, dark brown discoloration along the leaf veins, and the papery texture of affected tissue are hallmark characteristics of this bacterial disease. CBB is a serious disease of cassava that can cause significant yield losses if not managed properly."
+      }
+    ]
+  },
+  {
+    "image": "train-cbb-366.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nThis is a cassava plant showing disease symptoms. Can you diagnose the condition based on the visible symptoms?"
+      },
+      {
+        "from": "assistant",
+        "value": "The cassava leaf in the image shows characteristic symptoms of bacterial infection, notably with distinct angular dark brown to black necrotic areas along the leaf veins and margins. These angular lesions have yellowish borders that create a halo-like appearance where infected tissue meets healthy tissue. The affected leaf areas appear dry and brittle with a papery texture. There's a clear pattern of systemic infection moving from the leaf veins outward, creating a mottled appearance with irregular patches of yellowing (chlorosis) between the green tissue. The angular nature of the lesions is particularly telling, as they are constrained by the leaf veins in the characteristic geometric pattern typical of bacterial infections in cassava.\n\nBased on the visible symptoms, this cassava plant is suffering from Cassava Bacterial Blight (CBB), caused by the bacterium Xanthomonas axonopodis pv. manihotis. The characteristic angular dark brown lesions with yellowish margins, vein-associated necrosis, and systemic spread pattern are diagnostic features of this serious bacterial disease. CBB is a significant threat to cassava production, capable of causing severe yield losses if not properly managed through resistant varieties and cultural practices."
+      }
+    ]
+  },
+  {
+    "image": "train-cbb-318.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nThis is a cassava plant showing disease symptoms. Can you diagnose the condition based on the visible symptoms?"
+      },
+      {
+        "from": "assistant",
+        "value": "The image shows cassava leaves displaying distinctive symptoms characteristic of Cassava Bacterial Blight (CBB). I can observe bright yellow discoloration along the leaf margins, particularly prominent at the edges of the lower leaves. The leaf tissue shows a gradient of coloration, from healthy green in the center to yellow-green and then bright yellow at the edges, indicating progressive chlorosis. The leaf veins appear reddish-brown, especially visible against the green leaf tissue, suggesting vascular infection. There appears to be some angular browning beginning to form between the veins, though the image's focus makes it difficult to see the full extent of any necrotic lesions. The affected leaves show signs of wilting and a papery texture developing in the yellow areas, which is consistent with the dry necrosis that develops as the bacterial infection progresses.\n\nBased on the visible symptoms - specifically the yellow leaf margins (chlorosis), reddish-brown veins, angular pattern of discoloration, and the beginning signs of dry necrotic tissue - this cassava plant is infected with Cassava Bacterial Blight (CBB), caused by the bacterium Xanthomonas axonopodis pv. manihotis. This bacterial disease is one of the most serious cassava diseases in many growing regions, capable of causing significant yield losses if not managed properly."
+      }
+    ]
+  },
+  {
+    "image": "train-cbb-383.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat disease is affecting this cassava plant? Please analyze the symptoms visible in the image and provide your diagnosis with reasoning."
+      },
+      {
+        "from": "assistant",
+        "value": "The cassava plant in the image shows several characteristic symptoms that require careful analysis. I can observe dark brown angular spots on some of the leaves, particularly visible on the lower leaves. These spots appear to have yellowish margins transitioning to the healthy green tissue. Some leaf veins show brownish discoloration, with what appears to be vein-associated necrosis. The affected leaf tissue has a distinctly different texture from the healthy portions - appearing drier and somewhat papery in the damaged areas. The angular nature of the lesions is particularly notable, as they seem confined by the leaf veins rather than forming circular patterns. The spread pattern suggests the infection progresses along the vascular system of the plant, characteristic of bacterial movement through plant tissues.\n\nBased on the visual symptoms observed in the image, this cassava plant is affected by Cassava Bacterial Blight (CBB), caused by the bacterium Xanthomonas axonopodis pv. manihotis. The angular leaf spots with yellowish margins, vein-associated browning, and the dry papery texture of affected leaf areas are all classic indicators of CBB. This bacterial disease is one of the most significant pathogens affecting cassava production in many regions, capable of causing substantial yield losses if left unmanaged."
+      }
+    ]
+  },
+  {
+    "image": "train-cbb-194.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nPlease examine this cassava plant and identify the disease. Describe the symptoms you observe and provide your diagnosis with reasoning."
+      },
+      {
+        "from": "assistant",
+        "value": "The cassava leaves in the image display several characteristic symptoms of disease. I can observe distinct dark brown to black angular spots scattered across the leaf surface, particularly concentrated on the yellowing leaves. These spots have a defined angular shape rather than circular patterns, which is significant. The surrounding leaf tissue shows a gradient of yellow to pale green coloration, indicating chlorosis progressing from the leaf margins inward. Some of the affected leaves appear to be wilting and curling inward. The texture of the infected areas appears dry and somewhat papery, with the dark spots contrasting sharply against the yellowing background of the leaf. The pattern of infection follows along the veins in several places, showing the systemic nature of the infection.\n\nBased on these visual symptoms, this cassava plant is suffering from Cassava Bacterial Blight (CBB), caused by the bacterium Xanthomonas axonopodis pv. manihotis. The angular dark brown to black lesions, yellowing leaf margins, and the progression of symptoms along the leaf veins are hallmark characteristics of this bacterial disease. CBB is a serious cassava pathogen that can lead to significant yield losses if not properly managed. The bacterial infection typically enters through wounds or natural openings and spreads systemically through the plant's vascular system, explaining the patterns observed in the affected leaves."
+      }
+    ]
+  },
+  {
+    "image": "train-cbb-108.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nIdentify the disease affecting this cassava plant. Please analyze the visual symptoms and explain how you reached your diagnosis."
+      },
+      {
+        "from": "assistant",
+        "value": "The cassava leaves in the image display distinctive dark brown angular lesions with yellowish margins, particularly concentrated on the upper leaves. These lesions have a characteristic geometric, angular shape bounded by the leaf veins. The affected areas appear to have a dry, papery texture that contrasts with the healthy green tissue. Some leaves show yellowing surrounding these angular spots, creating a halo effect. The pattern of infection shows these angular brown spots scattered across the leaf surface, with some appearing to follow along the veins. The infection is more severe on older leaves, which show more extensive yellowing and multiple lesions, while younger leaves (at the bottom of the image) appear less affected.\n\nThis cassava plant is infected with Cassava Bacterial Blight (CBB), caused by the bacterium Xanthomonas axonopodis pv. manihotis. The diagnostic features supporting this conclusion are the angular brown spots with yellow margins, the geometric shape of lesions constrained by leaf veins, and the progression of symptoms showing more damage on older leaves. CBB is a serious bacterial disease of cassava that typically begins with these characteristic angular leaf spots before potentially progressing to systemic infection that can cause wilting and die-back of shoots in severe cases."
+      }
+    ]
+  },
+  {
+    "image": "train-cbb-160.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nThis is a cassava plant showing disease symptoms. Can you diagnose the condition based on the visible symptoms?"
+      },
+      {
+        "from": "assistant",
+        "value": "Examining the image, I can see that the cassava leaves display early signs of angular leaf spotting characteristic of Cassava Bacterial Blight (CBB). The leaves show small yellowish to light brown angular spots following the leaf veins, particularly visible along the midribs and primary veins where they appear as a subtle discoloration. The leaf margins show slight wilting and some leaves exhibit early signs of the typical angular necrotic lesions with yellowish halos beginning to form. While the infection appears to be in its early stages, the pattern of discoloration following the vascular tissue of the leaves is distinctive. The reddish-purple coloration at the base of the leaf petioles and some small necrotic areas along veins are additional visual indicators consistent with bacterial infection.\n\nBased on the observed symptoms, this cassava plant is infected with Cassava Bacterial Blight (CBB), caused by the bacterium Xanthomonas axonopodis pv. manihotis. Though the infection appears to be in an early stage, the characteristic angular leaf spotting pattern, yellowing along veins, and initial necrotic lesions are diagnostic features of this bacterial disease. If left untreated, these symptoms will likely progress to more severe leaf blight, wilting, and eventual dieback of shoots."
+      }
+    ]
+  },
+  {
+    "image": "train-cbb-191.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nThis cassava plant appears diseased. What condition is it suffering from? Analyze the visible symptoms and explain your reasoning."
+      },
+      {
+        "from": "assistant",
+        "value": "The cassava leaf in the image displays characteristic signs of infection, specifically angular brown-reddish lesions visible on the green leaf tissue. These angular spots appear concentrated near the leaf margins and between the veins. In the upper left portion of the image, there's a leaf showing more advanced symptoms with yellowing (chlorosis) spreading from the infection sites, creating a distinct yellow halo around the brown necrotic areas. The affected tissue has a dry appearance and maintains its angular shape, which is bounded by the leaf veins. The pattern of infection following the leaf's vascular structure is particularly notable, with the lesions appearing to spread along the veins in some areas. The contrast between the healthy bright green leaf tissue and the tan to reddish-brown infected areas creates a distinctive pattern typical of bacterial infection.\n\nThis cassava plant is suffering from Cassava Bacterial Blight (CBB), caused by the bacterium Xanthomonas axonopodis pv. manihotis. The angular shape of the lesions, their brown-reddish coloration, and the yellowing margins are classic symptoms of this bacterial disease. The pattern of infection spreading along leaf veins and the dry, papery texture of affected tissue are consistent with how this pathogen colonizes cassava plants, entering through stomata or wounds and spreading through the vascular system."
+      }
+    ]
+  },
+  {
+    "image": "train-cbb-411.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nPlease diagnose the disease affecting this cassava plant. What symptoms do you observe, and what is your conclusion?"
+      },
+      {
+        "from": "assistant",
+        "value": "Examining the image, I can see the cassava leaves display characteristic symptoms of Cassava Bacterial Blight (CBB). The leaves show small, dark angular spots scattered across the leaf surface, particularly visible on the lower and middle leaves. These spots appear as dark green to brownish areas with subtle yellowish margins beginning to form around some lesions. The spots follow the angular pattern typical of CBB, constrained by the leaf veins. Upon closer inspection, some areas along the leaf veins show beginning signs of darkening, which is consistent with the vascular spread of the bacterial pathogen. The affected tissue appears to have a slightly different texture than the surrounding healthy green tissue, beginning to take on a somewhat dry appearance.\n\nBased on the visual symptoms observed, this cassava plant is infected with Cassava Bacterial Blight (CBB), caused by the bacterium Xanthomonas axonopodis pv. manihotis. The angular leaf spots, darkening along veins, and the beginning stages of tissue deterioration are hallmark signs of CBB infection. This bacterial disease is a serious threat to cassava production and can spread rapidly through a plantation, especially in warm, humid conditions."
+      }
+    ]
+  },
+  {
+    "image": "train-cbb-267.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nThis cassava plant appears diseased. What condition is it suffering from? Analyze the visible symptoms and explain your reasoning."
+      },
+      {
+        "from": "assistant",
+        "value": "The cassava leaf in the image displays characteristic symptoms of Cassava Bacterial Blight. I can observe distinct dark brown to black angular lesions along the leaf veins, creating a pattern of dark streaking against the yellowish-green leaf tissue. The leaf shows significant yellowing (chlorosis) around the margins and between veins, which appears to be spreading inward from the edges. There are also visible brown necrotic areas along the major veins, and some regions of the leaf appear to have a dry, papery texture where tissue death has occurred. The discoloration pattern is asymmetrical across the leaf surface, with some areas showing more intense yellowing than others, typical of the progressive nature of this bacterial infection.\n\nBased on these visual symptoms, this cassava plant is suffering from Cassava Bacterial Blight (CBB), caused by the bacterium Xanthomonas axonopodis pv. manihotis. The combination of vein-associated dark lesions, yellowing leaf margins, and the pattern of tissue degradation are diagnostic features of this serious bacterial disease. CBB is one of the most significant bacterial diseases affecting cassava production worldwide, capable of causing severe yield losses if not managed properly."
+      }
+    ]
+  },
+  {
+    "image": "train-cbb-266.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat disease has infected this cassava? Provide a thorough analysis of the symptoms visible in the image and your final diagnosis."
+      },
+      {
+        "from": "assistant",
+        "value": "The cassava leaves display distinct pinkish-brown to reddish-brown angular lesions scattered across the leaf surface. These lesions appear slightly raised or crusty with defined edges, showing a contrast against the healthy green leaf tissue. The spots vary in size from small pinpoint lesions to larger patches of approximately 5-7mm. Some lesions are concentrated along the pinkish-red leaf veins and midribs, suggesting systemic spread through the vascular system. The affected tissue has a dry, somewhat papery appearance, with some lesions showing a slight yellowing halo around their margins. The angular nature of many spots indicates that the infection is likely limited by leaf veins, which is characteristic of bacterial infections. The distribution pattern shows multiple infection points across different leaves, with some coalescence of spots in more severely affected areas.\n\nThis cassava plant is infected with Cassava Bacterial Blight (CBB), caused by the bacterium Xanthomonas axonopodis pv. manihotis (previously known as Xanthomonas campestris pv. manihotis). The distinctive angular lesions with pinkish-brown coloration, their distribution along veins, and the dry texture of affected tissue are hallmark symptoms of this bacterial disease. CBB is a serious systemic disease that can spread throughout the plant vascular system, eventually leading to wilting, defoliation, and stem die-back if left untreated. Early intervention through sanitation practices, use of disease-free planting materials, and appropriate bactericides would be recommended for management."
+      }
+    ]
+  },
+  {
+    "image": "train-cbb-264.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nIdentify the disease affecting this cassava plant. Please analyze the visual symptoms and explain how you reached your diagnosis."
+      },
+      {
+        "from": "assistant",
+        "value": "The cassava leaves in the image show distinctive symptoms of disease, though the image is somewhat blurry. I can observe areas of yellowing (chlorosis) around the leaf margins, particularly visible on the right side of the image. There appears to be some irregular discoloration patterns on the leaf surface, with areas transitioning from green to yellowish-green. The leaves also show signs of wilting and distortion of normal leaf shape, with some edges appearing curled. While the image resolution limits detailed observation of specific lesions or spots, the pattern of yellowing starting from the leaf margins and the overall decline in leaf health are consistent with early symptoms of bacterial infection in cassava.\n\nBased on the visible symptoms in this image, these cassava leaves are showing signs consistent with Cassava Bacterial Blight (CBB), caused by Xanthomonas axonopodis pv. manihotis. However, I should note that the image quality and angle make it difficult to observe the classic angular leaf spots with yellow halos and vein-associated necrosis that would provide a more definitive diagnosis. A closer, clearer image of the affected leaves would help confirm this diagnosis with greater certainty."
+      }
+    ]
+  },
+  {
+    "image": "train-cbb-152.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat disease has infected this cassava? Provide a thorough analysis of the symptoms visible in the image and your final diagnosis."
+      },
+      {
+        "from": "assistant",
+        "value": "The cassava leaves in this image show several characteristic symptoms of disease infection. I can observe dark angular lesions on the leaf margins, particularly visible on the right sides of some of the leaves. There's a distinct color transition from the healthy deep green tissue to yellowish areas around these lesions, creating a noticeable halo effect. Some leaf veins appear to have dark brown to black discoloration following their pattern. The affected parts of the leaves exhibit a dry appearance with what looks like a papery texture - this is particularly evident in the damaged tissue where the leaf structure appears to be breaking down. In the background, I can also notice some yellowing leaves, which suggests systemic infection spreading through the plant.\n\nBased on the visual symptoms observed - specifically the angular dark brown lesions with yellowish margins, the blackened leaf veins, and the dry, papery texture of affected tissue - this cassava plant is infected with Cassava Bacterial Blight (CBB), caused by the bacterium Xanthomonas axonopodis pv. manihotis. This bacterial disease is a significant threat to cassava production, often leading to substantial yield losses if not properly managed. The angular nature of the lesions is particularly diagnostic, as the bacteria are typically constrained by leaf veins, creating these characteristic geometric patterns of infection."
+      }
+    ]
+  },
+  {
+    "image": "train-cmd-7.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat pathogen is affecting this cassava plant? Analyze the visible symptoms in detail and provide your diagnosis."
+      },
+      {
+        "from": "assistant",
+        "value": "The cassava leaves in this image exhibit distinctive visual symptoms characteristic of viral infection. I can observe an irregular mosaic pattern where patches of normal deep green tissue contrast sharply with lighter yellow-green areas distributed across the leaf surface. This creates a mottled appearance that disrupts the normal uniform green coloration. The leaf structure shows noticeable distortion and mild curling, particularly along the edges. Some leaves appear smaller than normal, with an asymmetrical development where one side grows differently than the other. The leaf surface has a slightly bumpy texture in affected areas rather than the smooth appearance of healthy cassava leaves. The mosaic pattern follows veinal boundaries in some areas while crossing them in others, creating irregular patches of discoloration. The yellowing appears more intense in younger leaves, while the overall plant shows stunted growth compared to what would be expected in healthy cassava.\n\nThis cassava plant is infected with Cassava Mosaic Disease (CMD), caused by cassava mosaic geminiviruses (CMGs) of the family Geminiviridae. The characteristic irregular green-yellow mosaic pattern, leaf distortion, and asymmetrical leaf development are diagnostic features of this viral disease. CMD is transmitted primarily by the whitefly vector Bemisia tabaci and through the use of infected cuttings for propagation. This disease represents one of the most economically significant threats to cassava production across Africa and parts of Asia, capable of causing yield losses of 20-95% depending on virus strain and infection timing."
+      }
+    ]
+  },
+  {
+    "image": "train-cbb-404.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat is wrong with this cassava plant? Analyze the symptoms and identify the specific disease affecting it."
+      },
+      {
+        "from": "assistant",
+        "value": "The cassava plant in the image shows characteristic symptoms of Cassava Bacterial Blight (CBB). I can observe small, angular dark brown spots on some of the leaf surfaces, particularly visible on the lower leaves. These spots appear to have slight yellowish margins surrounding them. Along some of the leaf veins, there are thin brownish streaks beginning to form, indicating the early progression of vascular infection. The affected leaf tissue in those spots has begun to develop a slightly dry, papery texture distinct from the healthy green tissue. One leaf on the left side shows more advanced browning and necrosis, with the tissue turning a tan-brown color and appearing desiccated, which is consistent with the disease progression pattern of CBB.\n\nThis cassava plant is infected with Cassava Bacterial Blight (CBB), caused by the bacterium Xanthomonas axonopodis pv. manihotis. The specific angular lesions with yellowish halos, vein-associated browning, and the progression pattern from small spots to larger necrotic areas are diagnostic features of this bacterial disease. While the infection appears to be in its early to moderate stages on most leaves, prompt management is necessary to prevent further spread within the plant and to neighboring cassava crops."
+      }
+    ]
+  },
+  {
+    "image": "train-cbb-243.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nThis cassava plant appears diseased. What condition is it suffering from? Analyze the visible symptoms and explain your reasoning."
+      },
+      {
+        "from": "assistant",
+        "value": "The cassava leaf displays distinctive symptoms characteristic of bacterial infection. I observe irregular, angular dark brown spots scattered across the lime-green leaf surface. These spots have a defined shape with sharp edges rather than circular patterns. Along some of the leaf veins, particularly visible in the central part of the leaf, there are thin dark brown to black streaks following the vascular tissue. The affected areas appear to have a slightly dry, papery texture, contrasting with the otherwise healthy green tissue. The leaf also shows yellowing (chlorosis) around some of the angular lesions, creating a halo-like effect at the margins of the infected areas. The distribution pattern of these spots follows a typical bacterial infection spread pattern, with lesions appearing to expand from initial infection points along veins and across leaf tissue.\n\nBased on these visual symptoms, this cassava plant is suffering from Cassava Bacterial Blight (CBB), caused by the bacterium Xanthomonas axonopodis pv. manihotis. The characteristic angular dark brown spots with yellowish margins, the dark streaking along leaf veins, and the overall pattern of infection spreading across the leaf tissue are classic symptoms of this bacterial disease. CBC is a significant bacterial disease affecting cassava production worldwide, particularly in humid tropical regions where conditions favor bacterial spread and infection."
+      }
+    ]
+  }
+]
